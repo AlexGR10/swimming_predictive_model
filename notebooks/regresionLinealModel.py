@@ -3,7 +3,7 @@
 @author: 20151
 Archivo que genera un modelo predictivo"""
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 import pymongo
 import pandas as pd
@@ -15,6 +15,10 @@ client = pymongo.MongoClient("mongodb://localhost:27017/")
 db = client["natacion"]
 collection = db["datos_nadadores"]
 data = pd.DataFrame(list(collection.find()))
+
+# Revisar las primeras filas y nombres de columnas
+print(data.head())
+print(data.columns)
 
 # Asegurarse de que las columnas sean numéricas
 data['Height (cm)'] = pd.to_numeric(data['Height (cm)'], errors='coerce')
@@ -29,23 +33,23 @@ y = data['Competition Time (s)']
 # Dividir los datos en conjuntos de entrenamiento y prueba
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Entrenar el modelo de Random Forest
-modelo_rf = RandomForestRegressor(n_estimators=100, random_state=42)
-modelo_rf.fit(X_train, y_train)
+# Entrenar el modelo
+modelo = LinearRegression()
+modelo.fit(X_train, y_train)
 
 # Hacer predicciones
-y_pred_rf = modelo_rf.predict(X_test)
+y_pred = modelo.predict(X_test)
 
 # Evaluar el modelo
-mse_rf = mean_squared_error(y_test, y_pred_rf)
-r2_rf = r2_score(y_test, y_pred_rf)
-print(f'Error cuadrático medio (Random Forest): {mse_rf}')
-print(f'R2 Score (Random Forest): {r2_rf}')
+mse = mean_squared_error(y_test, y_pred)
+r2 = r2_score(y_test, y_pred)
+print(f'Error cuadrático medio: {mse}')
+print(f'R2 Score: {r2}')
 
 # Función para generar el reporte
 def generar_reporte(nombre, altura, peso, genero, tiempos_pasados):
     # Tiempo estimado
-    tiempo_estimado = modelo_rf.predict(np.array([[altura, peso, genero]]))[0]
+    tiempo_estimado = modelo.predict(np.array([[altura, peso, genero]]))[0]
     
     # Comparación con Benchmarks
     benchmarks = data.groupby('Gender')['Competition Time (s)'].mean()
@@ -60,7 +64,7 @@ def generar_reporte(nombre, altura, peso, genero, tiempos_pasados):
         plt.show()
 
     # Predicciones en Competencias
-    predicciones = modelo_rf.predict(X_test)
+    predicciones = modelo.predict(X_test)
     r2 = r2_score(y_test, predicciones)
     
     # Puntos Fuertes y Débiles
