@@ -1,0 +1,88 @@
+# Importar librerías necesarias
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn import svm
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Configuración y carga de datos
+datos = "C:\\Users\\zarah\\Recurso 1 - Scripts Python del Tema 2-20240926\\swimmer_data.csv"  # Ajusta el path según tu archivo
+df = pd.read_csv(datos, delimiter=";")
+
+# Exploración básica de los datos
+df.head()
+df.info()
+
+# Preprocesamiento de datos:
+# Supongamos que las columnas incluyen 'time', 'distance', 'style', 'height', 'weight', 'champion'
+# Convertir variable objetivo 'champion' en binaria (1 para campeón, 0 para no campeón)
+df['champion'] = df['champion'].apply(lambda x: 1 if x == 'Champion' else 0)
+
+# Codificación One-Hot para la variable categórica 'style' (ej. estilo de nado)
+df = pd.get_dummies(df, columns=['style'], drop_first=True)
+
+# Normalización de variables numéricas
+variables_a_normalizar = ['time', 'distance', 'height', 'weight']
+df[variables_a_normalizar] = df[variables_a_normalizar] / df[variables_a_normalizar].max()
+
+# Separación de características y variable objetivo
+X = df.drop('champion', axis=1)  # Características
+Y = df['champion']               # Variable objetivo
+
+# División de los datos en entrenamiento y prueba
+x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=10)
+
+# Verificación del tamaño de los conjuntos de entrenamiento y prueba
+print("Dimensiones del conjunto de entrenamiento:", x_train.shape)
+print("Dimensiones del conjunto de prueba:", x_test.shape)
+
+# Modelo de Regresión Logística
+modelo_log = LogisticRegression()
+modelo_log.fit(x_train, y_train)
+
+# Modelo SVM
+modelo_svm = svm.SVC(C=25, kernel='rbf', gamma=100, probability=True)
+modelo_svm.fit(x_train, y_train)
+
+# Evaluación de modelos
+# Regresión Logística
+y_pred_log = modelo_log.predict(x_test)
+acc_log = accuracy_score(y_test, y_pred_log)
+print("Precisión del modelo de Regresión Logística:", acc_log)
+
+# SVM
+y_pred_svm = modelo_svm.predict(x_test)
+acc_svm = accuracy_score(y_test, y_pred_svm)
+print("Precisión del modelo SVM:", acc_svm)
+
+# Métricas adicionales
+print("\nMétricas de Regresión Logística:")
+print("Precisión:", precision_score(y_test, y_pred_log))
+print("Recall:", recall_score(y_test, y_pred_log))
+print("F1-Score:", f1_score(y_test, y_pred_log))
+
+print("\nMétricas de SVM:")
+print("Precisión:", precision_score(y_test, y_pred_svm))
+print("Recall:", recall_score(y_test, y_pred_svm))
+print("F1-Score:", f1_score(y_test, y_pred_svm))
+
+# Matriz de confusión para SVM
+sns.set()
+plt.figure(figsize=(8, 6))
+conf_matrix_svm = confusion_matrix(y_test, y_pred_svm)
+sns.heatmap(conf_matrix_svm, annot=True, fmt="d", cmap="YlGnBu", cbar=False)
+plt.title("Matriz de Confusión - SVM")
+plt.xlabel("Predicción")
+plt.ylabel("Real")
+plt.show()
+
+# Ejemplo de predicción con nuevos datos
+nuevo_nadador = np.array([[0.8, 0.6, 1.78, 0.75, 0, 1]])  # Ejemplo de datos normalizados
+prediccion_log = modelo_log.predict(nuevo_nadador)
+prediccion_svm = modelo_svm.predict(nuevo_nadador)
+
+print("\nPredicción para un nuevo nadador con Regresión Logística (1 = campeón):", prediccion_log)
+print("Predicción para un nuevo nadador con SVM (1 = campeón):", prediccion_svm)

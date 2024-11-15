@@ -1,0 +1,5 @@
+prediccion variable continua
+regresion logica
+suporvector machine
+presicion *
+accurancy *

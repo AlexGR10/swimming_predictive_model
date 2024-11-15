@@ -1,101 +1,801 @@
-Name,Country,Height (cm),Weight (kg),Gender,Competition Time (s),Event Date,Competition,Position
-Emma McKeon,South Africa,167,98,1,49.61,28/09/2005,Olympic Games,6
-Maggie MacNeil,South Africa,176,83,1,52.81,28/07/2011,Pan Pacific Championships,5
-Kristof Milak,Hungary,184,82,0,55.92,23/06/2012,European Championships,6
-Beryl Gastaldello,Sweden,188,74,1,56.57,23/10/2012,World Championships,7
-Emma McKeon,China,197,63,1,54.01,02/11/2011,Swim USA,8
-Dana Vollmer,Singapore,183,94,1,54.83,02/11/2014,European Championships,3
-Marie Wattel,China,168,81,1,55.1,27/05/2011,Pan Pacific Championships,7
-Louise Hansson,Australia,188,88,1,57.98,19/06/2019,Swim USA,5
-Zhang Yufei,Hungary,172,93,1,55.91,26/10/2013,Swim USA,8
-Michael Phelps,Hungary,192,74,0,53.64,02/05/2008,Olympic Games,2
-Andrei Minakov,South Africa,166,83,0,55.9,06/09/2010,World Championships,4
-Dana Vollmer,Australia,166,62,1,50.11,10/03/2008,European Championships,4
-Tom Shields,France,162,63,0,50.42,17/07/2007,European Championships,6
-Emma McKeon,China,188,76,1,52.76,06/05/2007,Swim USA,8
-Caeleb Dressel,China,199,95,0,52.68,27/12/2008,European Championships,2
-Noe Ponti,USA,194,75,0,55.72,04/05/2005,Pan Pacific Championships,6
-Michael Phelps,Japan,197,76,0,51.35,11/03/2018,Pan Pacific Championships,7
-Emma McKeon,Sweden,191,93,1,49.65,16/01/2018,European Championships,1
-Laszlo Cseh,China,171,80,0,51.41,20/09/2007,European Championships,8
-Louise Hansson,Japan,165,59,1,54.59,05/12/2006,Olympic Games,5
-Noe Ponti,Sweden,168,89,0,53.21,19/10/2020,European Championships,4
-Andrei Minakov,Singapore,165,91,1,57.75,02/04/2017,Pan Pacific Championships,1
-Claire Curzan,Singapore,183,92,1,55.55,06/12/2019,Pan Pacific Championships,2
-Tom Shields,USA,169,94,0,53.71,11/11/2016,European Championships,4
-Andrei Minakov,China,183,81,0,50.68,27/04/2008,Olympic Games,6
-Kristof Milak,Sweden,199,68,0,57.9,14/06/2020,European Championships,2
-Caeleb Dressel,USA,197,64,0,51.07,11/11/2008,Olympic Games,4
-Joseph Schooling,Japan,160,78,0,54.67,21/10/2006,European Championships,8
-Andrei Minakov,USA,192,99,0,54,19/01/2013,European Championships,2
-Claire Curzan,Singapore,174,91,1,56.2,19/09/2016,Pan Pacific Championships,5
-Takeshi Matsuda,Sweden,185,72,0,57.87,07/08/2020,Pan Pacific Championships,1
-Joseph Schooling,Hungary,198,68,0,52.01,25/04/2018,Pan Pacific Championships,3
-Takeshi Matsuda,Australia,160,81,0,55.63,20/09/2019,Pan Pacific Championships,3
-Michael Phelps,France,195,85,0,49.27,12/02/2013,Swim USA,1
-Sarah Sjostrom,Russia,166,63,1,56.56,26/01/2019,Swim USA,8
-Beryl Gastaldello,Singapore,166,65,1,52.11,16/05/2021,World Championships,7
-Marie Wattel,USA,184,63,1,49.68,07/09/2015,European Championships,1
-Dana Vollmer,South Africa,173,92,1,54.63,31/12/2012,European Championships,6
-Claire Curzan,China,169,61,1,56.82,13/08/2008,European Championships,3
-Michael Phelps,USA,186,100,0,54.04,31/01/2006,European Championships,1
-Laszlo Cseh,USA,170,89,0,57.28,20/05/2006,Pan Pacific Championships,5
-Laszlo Cseh,USA,200,55,0,50.1,05/07/2017,European Championships,5
-Laszlo Cseh,USA,166,91,0,51.54,20/07/2016,World Championships,8
-Takeshi Matsuda,Australia,197,91,0,52.21,14/11/2019,Swim USA,7
-Laszlo Cseh,Russia,184,61,0,56.73,13/11/2013,Swim USA,6
-Sarah Sjostrom,Sweden,184,55,1,53.31,01/06/2019,Olympic Games,2
-Joseph Schooling,Hungary,171,57,0,53.51,26/01/2022,Pan Pacific Championships,3
-Takeshi Matsuda,Russia,199,69,0,51.82,15/02/2016,World Championships,5
-Kristof Milak,Japan,198,56,0,54.21,17/03/2016,Pan Pacific Championships,4
-Dana Vollmer,Hungary,173,92,1,55.42,06/12/2009,European Championships,1
-Kelsi Dahlia,South Africa,160,76,1,51.7,03/09/2021,European Championships,8
-Michael Phelps,South Africa,183,68,0,56.94,24/07/2007,World Championships,8
-Dana Vollmer,China,185,70,1,53.8,04/05/2024,Olympic Games,6
-Emma McKeon,France,197,86,1,54.19,25/08/2016,Swim USA,3
-Joseph Schooling,Australia,184,72,0,49.74,04/11/2016,Olympic Games,1
-Claire Curzan,France,175,58,1,49.07,07/11/2018,Olympic Games,6
-Dana Vollmer,Singapore,188,84,1,57.46,24/03/2009,Pan Pacific Championships,3
-Claire Curzan,Hungary,167,67,1,55.72,27/12/2018,Swim USA,3
-Kristof Milak,Singapore,183,58,0,49.89,24/03/2012,Olympic Games,2
-Dana Vollmer,Russia,187,71,1,54.62,27/11/2015,World Championships,6
-Beryl Gastaldello,South Africa,191,77,1,54.28,04/10/2009,European Championships,3
-Louise Hansson,Japan,177,93,1,52.12,05/08/2024,World Championships,1
-Dana Vollmer,Sweden,179,59,1,51.42,31/07/2013,European Championships,4
-Andrei Minakov,Hungary,178,75,0,49.34,27/02/2014,European Championships,6
-Maggie MacNeil,Russia,190,82,1,50.11,02/02/2021,Pan Pacific Championships,8
-Chad le Clos,South Africa,162,56,0,50.23,25/03/2020,World Championships,5
-Kristof Milak,Hungary,197,82,0,54.25,16/02/2011,Swim USA,4
-Louise Hansson,Singapore,175,69,1,55.6,08/07/2022,World Championships,1
-Joseph Schooling,Australia,169,59,0,51.66,01/08/2019,Swim USA,5
-Chad le Clos,Japan,195,94,0,55.45,05/02/2022,Pan Pacific Championships,6
-Kelsi Dahlia,Sweden,172,95,1,50.78,31/10/2022,Pan Pacific Championships,2
-Michael Phelps,Hungary,163,95,0,52.86,24/01/2007,Swim USA,3
-Caeleb Dressel,Australia,198,93,0,53.77,17/05/2007,Pan Pacific Championships,6
-Kelsi Dahlia,France,192,70,1,50.11,18/07/2005,Olympic Games,2
-Noe Ponti,Russia,172,76,0,49.23,24/07/2009,Pan Pacific Championships,6
-Laszlo Cseh,France,166,68,0,51.08,31/12/2021,Olympic Games,5
-Zhang Yufei,USA,160,88,1,50.58,29/12/2015,Olympic Games,6
-Emma McKeon,Australia,180,60,1,57.87,26/05/2011,European Championships,7
-Maggie MacNeil,Hungary,173,100,1,53.35,16/01/2006,Pan Pacific Championships,2
-Andrei Minakov,Hungary,166,66,0,50.13,28/03/2021,Pan Pacific Championships,6
-Joseph Schooling,Hungary,178,60,0,53.56,07/08/2020,Pan Pacific Championships,4
-Andrei Minakov,Singapore,180,73,0,50.7,03/02/2020,Swim USA,7
-Chad le Clos,Australia,166,90,0,54.64,26/04/2005,Pan Pacific Championships,5
-Zhang Yufei,Hungary,190,55,1,50.32,11/12/2009,European Championships,4
-Kristof Milak,Australia,182,72,0,50.84,17/12/2007,World Championships,2
-Emma McKeon,Australia,190,78,1,53.32,18/09/2020,Olympic Games,4
-Joseph Schooling,Sweden,186,74,0,50.82,13/03/2016,Olympic Games,7
-Sarah Sjostrom,USA,193,81,1,50.85,01/01/2021,Olympic Games,4
-Claire Curzan,USA,200,95,1,52.94,12/11/2015,Olympic Games,8
-Sarah Sjostrom,France,199,99,1,51.42,23/05/2021,World Championships,3
-Kelsi Dahlia,Japan,181,68,1,50.22,28/08/2008,Olympic Games,7
-Emma McKeon,Australia,183,86,1,49.62,12/04/2023,Pan Pacific Championships,6
-Kelsi Dahlia,China,187,94,1,57.12,13/11/2006,Olympic Games,3
-Louise Hansson,South Africa,198,79,1,57.86,11/05/2012,Pan Pacific Championships,2
-Claire Curzan,Singapore,167,98,1,51.88,15/11/2004,World Championships,7
-Joseph Schooling,Sweden,169,66,0,57.76,16/01/2008,Olympic Games,7
-Chad le Clos,Singapore,160,79,0,50.37,27/09/2011,World Championships,3
-Joseph Schooling,Sweden,168,76,0,53.26,25/03/2019,Pan Pacific Championships,2
-Marie Wattel,Japan,195,76,1,56.71,09/07/2014,Swim USA,4
-Claire Curzan,Russia,174,77,1,51.95,07/01/2007,Pan Pacific Championships,3
+Name,Country,Height (cm),Weight (kg),Gender,Competition Time (s),Event Date,Competition,Position,Current Age,Competition Years,Best Time (s),IMC,Training Hours/Week,Last Injury,Entrenador,Historial de competencias,Nivel de Competencia,Categoria IMC
+Emma McKeon,South Africa,167,98,1,49.61,28/09/2005,Olympic Games,6,30,5,50,35.1393,32,20/06/2022,Entrenador B,15 competencias,Olimpico,Obesidad
+Maggie MacNeil,South Africa,176,83,1,52.81,28/07/2011,Pan Pacific Championships,5,25,6,39,26.79494,25,10/02/2023,Entrenador D,5 competencias,Olimpico,Sobrepeso
+Kristof Milak,Hungary,184,82,0,55.92,23/06/2012,European Championships,6,24,7,40,24.22023,18,Sin lesiones,Entrenador C,20 competencias,Olimpico,Normal
+Beryl Gastaldello,Sweden,188,74,1,56.57,23/10/2012,World Championships,7,26,8,35,20.93708,32,Sin lesiones,Entrenador B,15 competencias,Olimpico,Normal
+Emma McKeon,China,197,63,1,54.01,02/11/2011,Swim USA,8,35,9,45,16.23335,15,Sin lesiones,Entrenador A,20 competencias,Olimpico,Bajo peso
+Dana Vollmer,Singapore,183,94,1,54.83,02/11/2014,European Championships,3,39,10,33,28.06892,15,Sin lesiones,Entrenador D,20 competencias,Olimpico,Sobrepeso
+Marie Wattel,China,168,81,1,55.1,27/05/2011,Pan Pacific Championships,7,22,12,34,28.69898,20,Sin lesiones,Entrenador B,20 competencias,Olimpico,Sobrepeso
+Louise Hansson,Australia,188,88,1,57.98,19/06/2019,Swim USA,5,25,14,28,24.89814,22,01/11/2020,Entrenador B,20 competencias,Olimpico,Normal
+Zhang Yufei,Hungary,172,93,1,55.91,26/10/2013,Swim USA,8,23,6,36,31.43591,27,20/06/2022,Entrenador C,5 competencias,Olimpico,Obesidad
+Michael Phelps,Hungary,192,74,0,53.64,02/05/2008,Olympic Games,2,27,7,32,20.07378,32,15/01/2021,Entrenador A,10 competencias,Olimpico,Normal
+Andrei Minakov,South Africa,166,83,0,55.9,06/09/2010,World Championships,4,20,10,30,30.12048,25,01/11/2020,Entrenador A,25 competencias,Olimpico,Obesidad
+Dana Vollmer,Australia,166,62,1,50.11,10/03/2008,European Championships,4,31,9,50,22.49964,18,Sin lesiones,Entrenador D,25 competencias,Olimpico,Normal
+Tom Shields,France,162,63,0,50.42,17/07/2007,European Championships,6,18,5,39,24.00549,32,Sin lesiones,Entrenador B,5 competencias,Olimpico,Normal
+Emma McKeon,China,188,76,1,52.76,06/05/2007,Swim USA,8,28,6,40,21.50294,15,10/02/2023,Entrenador A,20 competencias,Olimpico,Normal
+Caeleb Dressel,China,199,95,0,52.68,27/12/2008,European Championships,2,29,7,35,23.98929,15,01/11/2020,Entrenador A,20 competencias,Olimpico,Normal
+Noe Ponti,USA,194,75,0,55.72,04/05/2005,Pan Pacific Championships,6,31,8,45,19.92773,20,15/01/2021,Entrenador D,20 competencias,Olimpico,Normal
+Michael Phelps,Japan,197,76,0,51.35,11/03/2018,Pan Pacific Championships,7,29,9,33,19.58309,22,Sin lesiones,Entrenador D,5 competencias,Olimpico,Normal
+Emma McKeon,Sweden,191,93,1,49.65,16/01/2018,European Championships,1,38,10,34,25.49272,27,20/06/2022,Entrenador D,25 competencias,Olimpico,Sobrepeso
+Laszlo Cseh,China,171,80,0,51.41,20/09/2007,European Championships,8,36,12,28,27.35885,32,Sin lesiones,Entrenador A,5 competencias,Olimpico,Sobrepeso
+Louise Hansson,Japan,165,59,1,54.59,05/12/2006,Olympic Games,5,30,14,36,21.67126,25,01/11/2020,Entrenador A,5 competencias,Olimpico,Normal
+Noe Ponti,Sweden,168,89,0,53.21,19/10/2020,European Championships,4,25,6,32,31.53345,18,20/06/2022,Entrenador B,20 competencias,Olimpico,Obesidad
+Andrei Minakov,Singapore,165,91,1,57.75,02/04/2017,Pan Pacific Championships,1,24,7,30,33.42516,32,Sin lesiones,Entrenador A,5 competencias,Olimpico,Obesidad
+Claire Curzan,Singapore,183,92,1,55.55,06/12/2019,Pan Pacific Championships,2,26,10,50,27.47171,15,Sin lesiones,Entrenador D,15 competencias,Olimpico,Sobrepeso
+Tom Shields,USA,169,94,0,53.71,11/11/2016,European Championships,4,35,9,39,32.91201,15,25/05/2019,Entrenador B,25 competencias,Olimpico,Obesidad
+Andrei Minakov,China,183,81,0,50.68,27/04/2008,Olympic Games,6,39,5,40,24.18705,20,10/02/2023,Entrenador C,5 competencias,Olimpico,Normal
+Kristof Milak,Sweden,199,68,0,57.9,14/06/2020,European Championships,2,22,6,35,17.17128,22,Sin lesiones,Entrenador D,5 competencias,Olimpico,Bajo peso
+Caeleb Dressel,USA,197,64,0,51.07,11/11/2008,Olympic Games,4,25,7,45,16.49102,27,20/06/2022,Entrenador B,5 competencias,Olimpico,Bajo peso
+Joseph Schooling,Japan,160,78,0,54.67,21/10/2006,European Championships,8,23,8,33,30.46875,15,01/11/2020,Entrenador C,25 competencias,Olimpico,Obesidad
+Andrei Minakov,USA,192,99,0,54,19/01/2013,European Championships,2,27,9,34,26.85547,15,01/11/2020,Entrenador B,15 competencias,Olimpico,Sobrepeso
+Claire Curzan,Singapore,174,91,1,56.2,19/09/2016,Pan Pacific Championships,5,20,10,28,30.05681,32,Sin lesiones,Entrenador D,10 competencias,Olimpico,Obesidad
+Takeshi Matsuda,Sweden,185,72,0,57.87,07/08/2020,Pan Pacific Championships,1,31,12,36,21.03725,25,20/06/2022,Entrenador B,10 competencias,Olimpico,Normal
+Joseph Schooling,Hungary,198,68,0,52.01,25/04/2018,Pan Pacific Championships,3,18,14,32,17.34517,18,Sin lesiones,Entrenador A,25 competencias,Olimpico,Bajo peso
+Takeshi Matsuda,Australia,160,81,0,55.63,20/09/2019,Pan Pacific Championships,3,28,6,30,31.64063,32,01/11/2020,Entrenador A,20 competencias,Olimpico,Obesidad
+Michael Phelps,France,195,85,0,49.27,12/02/2013,Swim USA,1,29,7,50,22.35371,15,15/01/2021,Entrenador A,10 competencias,Olimpico,Normal
+Sarah Sjostrom,Russia,166,63,1,56.56,26/01/2019,Swim USA,8,31,10,39,22.86253,15,Sin lesiones,Entrenador A,5 competencias,Olimpico,Normal
+Beryl Gastaldello,Singapore,166,65,1,52.11,16/05/2021,World Championships,7,29,9,40,23.58833,20,Sin lesiones,Entrenador D,10 competencias,Olimpico,Normal
+Marie Wattel,USA,184,63,1,49.68,07/09/2015,European Championships,1,38,5,35,18.60822,22,Sin lesiones,Entrenador B,10 competencias,Olimpico,Normal
+Dana Vollmer,South Africa,173,92,1,54.63,31/12/2012,European Championships,6,36,6,45,30.73942,27,Sin lesiones,Entrenador B,5 competencias,Olimpico,Obesidad
+Claire Curzan,China,169,61,1,56.82,13/08/2008,European Championships,3,30,7,33,21.3578,32,Sin lesiones,Entrenador D,10 competencias,Olimpico,Normal
+Michael Phelps,USA,186,100,0,54.04,31/01/2006,European Championships,1,25,8,34,28.90508,25,10/02/2023,Entrenador B,10 competencias,Olimpico,Sobrepeso
+Laszlo Cseh,USA,170,89,0,57.28,20/05/2006,Pan Pacific Championships,5,24,9,28,30.79585,18,10/02/2023,Entrenador D,20 competencias,Olimpico,Obesidad
+Laszlo Cseh,USA,200,55,0,50.1,05/07/2017,European Championships,5,26,10,36,13.75,32,Sin lesiones,Entrenador C,20 competencias,Olimpico,Bajo peso
+Laszlo Cseh,USA,166,91,0,51.54,20/07/2016,World Championships,8,35,12,32,33.02366,15,Sin lesiones,Entrenador D,5 competencias,Olimpico,Obesidad
+Takeshi Matsuda,Australia,197,91,0,52.21,14/11/2019,Swim USA,7,39,14,30,23.44817,15,Sin lesiones,Entrenador C,5 competencias,Olimpico,Normal
+Laszlo Cseh,Russia,184,61,0,56.73,13/11/2013,Swim USA,6,22,6,50,18.01749,20,Sin lesiones,Entrenador D,5 competencias,Olimpico,Bajo peso
+Sarah Sjostrom,Sweden,184,55,1,53.31,01/06/2019,Olympic Games,2,25,7,39,16.24527,22,15/01/2021,Entrenador D,5 competencias,Olimpico,Bajo peso
+Joseph Schooling,Hungary,171,57,0,53.51,26/01/2022,Pan Pacific Championships,3,23,10,40,19.49318,27,Sin lesiones,Entrenador D,10 competencias,Olimpico,Normal
+Takeshi Matsuda,Russia,199,69,0,51.82,15/02/2016,World Championships,5,27,9,35,17.4238,32,25/05/2019,Entrenador A,5 competencias,Olimpico,Bajo peso
+Kristof Milak,Japan,198,56,0,54.21,17/03/2016,Pan Pacific Championships,4,20,5,45,14.28426,25,15/01/2021,Entrenador C,15 competencias,Olimpico,Bajo peso
+Dana Vollmer,Hungary,173,92,1,55.42,06/12/2009,European Championships,1,31,6,33,30.73942,18,10/02/2023,Entrenador A,5 competencias,Olimpico,Obesidad
+Kelsi Dahlia,South Africa,160,76,1,51.7,03/09/2021,European Championships,8,18,7,34,29.6875,32,Sin lesiones,Entrenador B,5 competencias,Olimpico,Sobrepeso
+Michael Phelps,South Africa,183,68,0,56.94,24/07/2007,World Championships,8,28,8,28,20.30517,15,Sin lesiones,Entrenador D,5 competencias,Olimpico,Normal
+Dana Vollmer,China,185,70,1,53.8,04/05/2024,Olympic Games,6,29,9,36,20.45289,15,10/02/2023,Entrenador D,15 competencias,Olimpico,Normal
+Emma McKeon,France,197,86,1,54.19,25/08/2016,Swim USA,3,31,10,32,22.15981,20,20/06/2022,Entrenador C,25 competencias,Olimpico,Normal
+Joseph Schooling,Australia,184,72,0,49.74,04/11/2016,Olympic Games,1,29,12,30,21.26654,22,Sin lesiones,Entrenador D,5 competencias,Olimpico,Normal
+Claire Curzan,France,175,58,1,49.07,07/11/2018,Olympic Games,6,38,14,50,18.93878,27,Sin lesiones,Entrenador C,25 competencias,Olimpico,Normal
+Dana Vollmer,Singapore,188,84,1,57.46,24/03/2009,Pan Pacific Championships,3,36,6,39,23.76641,15,Sin lesiones,Entrenador C,10 competencias,Olimpico,Normal
+Claire Curzan,Hungary,167,67,1,55.72,27/12/2018,Swim USA,3,30,7,40,24.02381,15,Sin lesiones,Entrenador B,25 competencias,Olimpico,Normal
+Kristof Milak,Singapore,183,58,0,49.89,24/03/2012,Olympic Games,2,25,10,35,17.31912,32,Sin lesiones,Entrenador D,15 competencias,Olimpico,Bajo peso
+Dana Vollmer,Russia,187,71,1,54.62,27/11/2015,World Championships,6,24,9,45,20.3037,25,10/02/2023,Entrenador B,20 competencias,Olimpico,Normal
+Beryl Gastaldello,South Africa,191,77,1,54.28,04/10/2009,European Championships,3,26,5,33,21.10688,18,25/05/2019,Entrenador C,20 competencias,Olimpico,Normal
+Louise Hansson,Japan,177,93,1,52.12,05/08/2024,World Championships,1,35,6,34,29.68496,32,Sin lesiones,Entrenador B,5 competencias,Olimpico,Sobrepeso
+Dana Vollmer,Sweden,179,59,1,51.42,31/07/2013,European Championships,4,39,7,28,18.41391,15,Sin lesiones,Entrenador D,5 competencias,Olimpico,Bajo peso
+Andrei Minakov,Hungary,178,75,0,49.34,27/02/2014,European Championships,6,22,8,36,23.67125,15,25/05/2019,Entrenador B,10 competencias,Olimpico,Normal
+Maggie MacNeil,Russia,190,82,1,50.11,02/02/2021,Pan Pacific Championships,8,25,9,32,22.71468,20,20/06/2022,Entrenador C,20 competencias,Olimpico,Normal
+Chad le Clos,South Africa,162,56,0,50.23,25/03/2020,World Championships,5,23,10,30,21.33821,22,10/02/2023,Entrenador A,10 competencias,Olimpico,Normal
+Kristof Milak,Hungary,197,82,0,54.25,16/02/2011,Swim USA,4,27,12,50,21.12912,27,01/11/2020,Entrenador D,15 competencias,Olimpico,Normal
+Louise Hansson,Singapore,175,69,1,55.6,08/07/2022,World Championships,1,20,14,39,22.53061,32,01/11/2020,Entrenador C,10 competencias,Olimpico,Normal
+Joseph Schooling,Australia,169,59,0,51.66,01/08/2019,Swim USA,5,31,6,40,20.65754,25,25/05/2019,Entrenador B,5 competencias,Olimpico,Normal
+Chad le Clos,Japan,195,94,0,55.45,05/02/2022,Pan Pacific Championships,6,18,7,35,24.72058,18,Sin lesiones,Entrenador A,10 competencias,Olimpico,Normal
+Kelsi Dahlia,Sweden,172,95,1,50.78,31/10/2022,Pan Pacific Championships,2,28,10,45,32.11195,32,25/05/2019,Entrenador C,15 competencias,Olimpico,Obesidad
+Michael Phelps,Hungary,163,95,0,52.86,24/01/2007,Swim USA,3,29,9,33,35.75596,15,20/06/2022,Entrenador B,5 competencias,Olimpico,Obesidad
+Caeleb Dressel,Australia,198,93,0,53.77,17/05/2007,Pan Pacific Championships,6,31,5,34,23.72207,15,Sin lesiones,Entrenador C,25 competencias,Olimpico,Normal
+Kelsi Dahlia,France,192,70,1,50.11,18/07/2005,Olympic Games,2,29,6,28,18.98872,20,Sin lesiones,Entrenador B,20 competencias,Olimpico,Normal
+Noe Ponti,Russia,172,76,0,49.23,24/07/2009,Pan Pacific Championships,6,38,7,36,25.68956,22,Sin lesiones,Entrenador B,20 competencias,Olimpico,Sobrepeso
+Laszlo Cseh,France,166,68,0,51.08,31/12/2021,Olympic Games,5,36,8,32,24.67702,27,01/11/2020,Entrenador A,5 competencias,Olimpico,Normal
+Zhang Yufei,USA,160,88,1,50.58,29/12/2015,Olympic Games,6,30,9,30,34.375,32,Sin lesiones,Entrenador B,25 competencias,Olimpico,Obesidad
+Emma McKeon,Australia,180,60,1,57.87,26/05/2011,European Championships,7,25,10,50,18.51852,25,Sin lesiones,Entrenador B,5 competencias,Olimpico,Normal
+Maggie MacNeil,Hungary,173,100,1,53.35,16/01/2006,Pan Pacific Championships,2,24,12,39,33.41241,18,25/05/2019,Entrenador A,5 competencias,Olimpico,Obesidad
+Andrei Minakov,Hungary,166,66,0,50.13,28/03/2021,Pan Pacific Championships,6,26,14,40,23.95123,32,Sin lesiones,Entrenador A,15 competencias,Olimpico,Normal
+Joseph Schooling,Hungary,178,60,0,53.56,07/08/2020,Pan Pacific Championships,4,35,6,35,18.937,15,01/11/2020,Entrenador B,10 competencias,Olimpico,Normal
+Andrei Minakov,Singapore,180,73,0,50.7,03/02/2020,Swim USA,7,39,7,45,22.53086,15,Sin lesiones,Entrenador B,10 competencias,Olimpico,Normal
+Chad le Clos,Australia,166,90,0,54.64,26/04/2005,Pan Pacific Championships,5,22,10,33,32.66076,20,10/02/2023,Entrenador C,5 competencias,Olimpico,Obesidad
+Zhang Yufei,Hungary,190,55,1,50.32,11/12/2009,European Championships,4,25,9,34,15.23546,22,Sin lesiones,Entrenador C,5 competencias,Olimpico,Bajo peso
+Kristof Milak,Australia,182,72,0,50.84,17/12/2007,World Championships,2,23,5,28,21.73651,27,01/11/2020,Entrenador B,10 competencias,Olimpico,Normal
+Emma McKeon,Australia,190,78,1,53.32,18/09/2020,Olympic Games,4,27,6,36,21.60665,32,Sin lesiones,Entrenador B,15 competencias,Olimpico,Normal
+Joseph Schooling,Sweden,186,74,0,50.82,13/03/2016,Olympic Games,7,20,7,32,21.38976,25,Sin lesiones,Entrenador D,25 competencias,Olimpico,Normal
+Sarah Sjostrom,USA,193,81,1,50.85,01/01/2021,Olympic Games,4,31,8,30,21.74555,18,10/02/2023,Entrenador A,25 competencias,Olimpico,Normal
+Claire Curzan,USA,200,95,1,52.94,12/11/2015,Olympic Games,8,18,9,50,23.75,32,Sin lesiones,Entrenador B,10 competencias,Olimpico,Normal
+Sarah Sjostrom,France,199,99,1,51.42,23/05/2021,World Championships,3,28,10,39,24.99937,15,10/02/2023,Entrenador A,5 competencias,Olimpico,Normal
+Kelsi Dahlia,Japan,181,68,1,50.22,28/08/2008,Olympic Games,7,29,12,40,20.75639,15,Sin lesiones,Entrenador A,20 competencias,Olimpico,Normal
+Emma McKeon,Australia,183,86,1,49.62,12/04/2023,Pan Pacific Championships,6,31,14,35,25.68007,20,Sin lesiones,Entrenador B,10 competencias,Olimpico,Sobrepeso
+Kelsi Dahlia,China,187,94,1,57.12,13/11/2006,Olympic Games,3,29,6,45,26.88095,22,Sin lesiones,Entrenador D,5 competencias,Olimpico,Sobrepeso
+Louise Hansson,South Africa,198,79,1,57.86,11/05/2012,Pan Pacific Championships,2,38,7,33,20.151,27,Sin lesiones,Entrenador C,15 competencias,Olimpico,Normal
+Claire Curzan,Singapore,167,98,1,51.88,15/11/2004,World Championships,7,36,10,34,35.1393,32,Sin lesiones,Entrenador B,15 competencias,Olimpico,Obesidad
+Joseph Schooling,Sweden,169,66,0,57.76,16/01/2008,Olympic Games,7,37,9,28,23.10843,25,Sin lesiones,Entrenador A,5 competencias,Olimpico,Normal
+Chad le Clos,Singapore,160,79,0,50.37,27/09/2011,World Championships,3,28,5,36,30.85938,18,Sin lesiones,Entrenador B,5 competencias,Olimpico,Obesidad
+Joseph Schooling,Sweden,168,76,0,53.26,25/03/2019,Pan Pacific Championships,2,26,6,32,26.92744,32,01/11/2020,Entrenador A,10 competencias,Olimpico,Sobrepeso
+Marie Wattel,Japan,195,76,1,56.71,09/07/2014,Swim USA,4,22,7,30,19.98685,15,Sin lesiones,Entrenador A,5 competencias,Olimpico,Normal
+Claire Curzan,Russia,174,77,1,51.95,07/01/2007,Pan Pacific Championships,3,31,8,50,25.43269,15,Sin lesiones,Entrenador D,25 competencias,Olimpico,Sobrepeso
+Beryl Gastaldello,USA,176.25,73.6,1,50.94,02/10/2010,World Championships,6,30,5,50,23.69297,20,Sin lesiones,Entrenador D,5 competencias,Olimpico,Normal
+Maggie MacNeil,Sweden,186.39,74.98,1,51.69,15/01/2013,Swim USA,1,25,6,39,21.58242,22,Sin lesiones,Entrenador A,10 competencias,Olimpico,Normal
+Tom Shields,France,167.91,55.26,0,54.54,01/10/2004,Pan Pacific Championships,3,24,7,40,19.60008,27,Sin lesiones,Entrenador A,5 competencias,Olimpico,Normal
+Beryl Gastaldello,Hungary,189.66,73.69,1,54.79,01/01/2016,Olympic Games,7,26,8,35,20.486,32,15/01/2021,Entrenador D,5 competencias,Olimpico,Normal
+Tom Shields,Sweden,182.47,73.39,1,56.09,16/04/2016,Pan Pacific Championships,2,35,9,45,22.04215,25,20/06/2022,Entrenador C,10 competencias,Olimpico,Normal
+Emma McKeon,USA,181.19,81.66,0,51.1,08/05/2022,World Championships,5,39,10,33,24.87373,18,Sin lesiones,Entrenador A,5 competencias,Olimpico,Normal
+Michael Phelps,USA,189.31,56.82,1,53.34,15/11/2017,Olympic Games,3,22,12,34,15.85456,32,Sin lesiones,Entrenador C,25 competencias,Olimpico,Bajo peso
+Louise Hansson,South Africa,170.89,83.32,0,54.97,25/12/2006,Pan Pacific Championships,5,25,14,28,28.53093,15,Sin lesiones,Entrenador B,15 competencias,Olimpico,Sobrepeso
+Emma McKeon,Australia,169.83,61.18,0,56.97,14/04/2018,European Championships,8,23,6,36,21.21195,15,15/01/2021,Entrenador A,10 competencias,Olimpico,Normal
+Dana Vollmer,Australia,173.19,71.19,1,52.16,01/11/2005,European Championships,5,27,7,32,23.73413,20,01/11/2020,Entrenador C,10 competencias,Olimpico,Normal
+Marie Wattel,Hungary,183.06,74.34,0,57.57,01/05/2015,Pan Pacific Championships,2,20,10,30,22.18378,22,Sin lesiones,Entrenador B,15 competencias,Olimpico,Normal
+Maggie MacNeil,France,171.12,82.3,0,57.58,10/11/2014,World Championships,1,31,9,50,28.10595,27,20/06/2022,Entrenador D,20 competencias,Olimpico,Sobrepeso
+Andrei Minakov,China,174.84,77.58,1,53.21,26/03/2011,World Championships,6,18,5,39,25.37863,15,20/06/2022,Entrenador A,5 competencias,Olimpico,Sobrepeso
+Michael Phelps,Sweden,177.33,93.76,1,57.76,28/02/2013,Swim USA,4,28,6,40,29.81626,15,10/02/2023,Entrenador A,5 competencias,Olimpico,Sobrepeso
+Caeleb Dressel,Australia,180.54,89.12,0,51.44,27/11/2007,Swim USA,2,29,7,35,27.34188,32,25/05/2019,Entrenador A,5 competencias,Olimpico,Sobrepeso
+Louise Hansson,Singapore,180.38,86.14,0,52.98,03/09/2015,Olympic Games,6,31,8,45,26.47452,25,Sin lesiones,Entrenador A,10 competencias,Olimpico,Sobrepeso
+Beryl Gastaldello,Singapore,191.17,64.05,1,58.09,07/06/2003,Swim USA,8,29,9,33,17.52587,18,10/02/2023,Entrenador C,5 competencias,Olimpico,Bajo peso
+Louise Hansson,Australia,170.84,66.67,1,55.42,21/12/2011,Pan Pacific Championships,7,38,10,34,22.8429,32,Sin lesiones,Entrenador C,15 competencias,Olimpico,Normal
+Marie Wattel,Sweden,170.63,72.87,1,48.6,12/12/2013,Olympic Games,1,36,12,28,25.02868,15,Sin lesiones,Entrenador C,15 competencias,Olimpico,Sobrepeso
+Kristof Milak,USA,183.94,81.23,0,52.93,09/06/2016,Pan Pacific Championships,3,30,14,36,24.00845,15,Sin lesiones,Entrenador D,20 competencias,Olimpico,Normal
+Zhang Yufei,South Africa,186.77,84.41,1,55.34,20/09/2006,Olympic Games,1,25,6,32,24.19801,20,Sin lesiones,Entrenador B,5 competencias,Olimpico,Normal
+Maggie MacNeil,Singapore,181.78,79.98,1,50.69,11/07/2005,Pan Pacific Championships,8,24,7,30,24.20411,22,20/06/2022,Entrenador C,15 competencias,Olimpico,Normal
+Caeleb Dressel,China,183.53,66.3,1,51.42,13/10/2000,Pan Pacific Championships,2,26,10,50,19.68337,27,Sin lesiones,Entrenador B,25 competencias,Olimpico,Normal
+Emma McKeon,France,195.36,71.73,1,61.12,25/05/2021,European Championships,5,35,9,39,18.79445,32,25/05/2019,Entrenador A,5 competencias,Olimpico,Normal
+Marie Wattel,Singapore,171.85,71.87,1,51.57,12/01/2009,World Championships,5,39,5,40,24.33596,25,20/06/2022,Entrenador C,10 competencias,Olimpico,Normal
+Tom Shields,Sweden,220.44,91.21,0,54.14,04/08/2002,Pan Pacific Championships,8,22,6,35,18.76989,18,20/06/2022,Entrenador A,20 competencias,Olimpico,Normal
+Dana Vollmer,China,204.39,62.55,1,51.29,21/06/2005,World Championships,1,25,7,45,14.97297,32,15/01/2021,Entrenador B,15 competencias,Olimpico,Bajo peso
+Tom Shields,Hungary,185.73,94.69,0,54.76,11/03/2013,Olympic Games,1,23,8,33,27.44985,15,10/02/2023,Entrenador D,5 competencias,Olimpico,Sobrepeso
+Noe Ponti,China,172.87,66.39,1,56.75,05/10/2008,Pan Pacific Championships,1,27,9,34,22.21587,15,20/06/2022,Entrenador D,15 competencias,Olimpico,Normal
+Tom Shields,Sweden,158.59,75.26,1,55.44,03/05/2008,World Championships,6,20,10,28,29.92352,20,15/01/2021,Entrenador C,20 competencias,Olimpico,Sobrepeso
+Kristof Milak,Hungary,181.24,79.75,1,51.57,18/12/2018,Olympic Games,8,31,12,36,24.27854,22,10/02/2023,Entrenador A,10 competencias,Olimpico,Normal
+Maggie MacNeil,Sweden,192.98,89,0,53.22,27/02/2010,Pan Pacific Championships,2,18,14,32,23.89821,27,Sin lesiones,Entrenador A,5 competencias,Olimpico,Normal
+Caeleb Dressel,Australia,174.59,70.27,1,57.17,16/05/2013,European Championships,2,28,6,30,23.0532,32,15/01/2021,Entrenador A,20 competencias,Olimpico,Normal
+Maggie MacNeil,China,185.02,78.24,1,50.83,15/03/2011,Olympic Games,6,29,7,50,22.85554,25,Sin lesiones,Entrenador D,10 competencias,Olimpico,Normal
+Dana Vollmer,South Africa,203.79,74.73,0,54.11,07/09/2008,European Championships,8,31,10,39,17.99406,18,Sin lesiones,Entrenador C,10 competencias,Olimpico,Bajo peso
+Beryl Gastaldello,France,179.33,66.03,1,52.69,14/09/2020,World Championships,8,29,9,40,20.5322,32,Sin lesiones,Entrenador B,15 competencias,Olimpico,Normal
+Maggie MacNeil,China,182.26,71.54,1,55.11,14/10/2007,Olympic Games,5,38,5,35,21.53606,15,Sin lesiones,Entrenador A,20 competencias,Olimpico,Normal
+Caeleb Dressel,China,182.84,75.75,1,53.06,02/02/2010,Olympic Games,6,36,6,45,22.65897,15,Sin lesiones,Entrenador D,25 competencias,Olimpico,Normal
+Dana Vollmer,Sweden,187.03,65.03,0,53.34,09/03/2002,European Championships,8,30,7,33,18.59051,20,Sin lesiones,Entrenador A,10 competencias,Olimpico,Normal
+Louise Hansson,Singapore,159.59,68.38,1,54.9,06/09/2010,World Championships,1,25,8,34,26.84836,22,25/05/2019,Entrenador C,15 competencias,Olimpico,Sobrepeso
+Andrei Minakov,China,175.65,68.16,1,54.98,14/09/2000,Olympic Games,4,24,9,28,22.09191,27,10/02/2023,Entrenador B,10 competencias,Olimpico,Normal
+Andrei Minakov,South Africa,172.07,76.97,0,53,27/04/2007,Swim USA,1,26,10,36,25.99628,15,Sin lesiones,Entrenador B,10 competencias,Olimpico,Sobrepeso
+Noe Ponti,France,177.08,71.9,0,54.46,10/10/2022,Olympic Games,1,35,12,32,22.92925,15,01/11/2020,Entrenador C,25 competencias,Olimpico,Normal
+Dana Vollmer,China,172.9,78.75,1,57.24,24/05/2019,Olympic Games,7,39,14,30,26.34272,32,20/06/2022,Entrenador B,20 competencias,Olimpico,Sobrepeso
+Beryl Gastaldello,Singapore,165.56,78.43,0,50.65,07/10/2020,Olympic Games,3,22,6,50,28.61353,25,15/01/2021,Entrenador D,20 competencias,Olimpico,Sobrepeso
+Marie Wattel,France,180.6,85.57,0,57.63,09/09/2020,Olympic Games,8,25,7,39,26.2353,18,Sin lesiones,Entrenador D,5 competencias,Olimpico,Sobrepeso
+Emma McKeon,France,181.87,77.42,1,59.17,20/09/2013,Olympic Games,2,23,10,40,23.40621,32,Sin lesiones,Entrenador D,15 competencias,Olimpico,Normal
+Caeleb Dressel,France,173.95,79.99,1,59.27,13/02/2022,Olympic Games,7,27,9,35,26.43546,15,01/11/2020,Entrenador C,25 competencias,Olimpico,Sobrepeso
+Louise Hansson,France,199.12,75.37,1,52.47,04/07/2017,Olympic Games,2,20,5,45,19.00941,15,01/11/2020,Entrenador B,20 competencias,Olimpico,Normal
+Emma McKeon,Sweden,178.71,80.23,0,52.82,18/06/2001,World Championships,2,31,6,33,25.12112,20,Sin lesiones,Entrenador D,10 competencias,Olimpico,Sobrepeso
+Emma McKeon,South Africa,173.17,85.3,0,55.12,11/05/2011,European Championships,6,18,7,34,28.44485,22,20/06/2022,Entrenador D,25 competencias,Olimpico,Sobrepeso
+Beryl Gastaldello,Australia,188.74,70.64,1,62.99,02/10/2022,Olympic Games,2,28,8,28,19.83,27,10/02/2023,Entrenador A,5 competencias,Olimpico,Normal
+Beryl Gastaldello,Australia,179.35,64.01,1,54.18,14/11/2000,Swim USA,1,29,9,36,19.89963,32,Sin lesiones,Entrenador A,5 competencias,Olimpico,Normal
+Noe Ponti,Singapore,184.19,72.19,0,49.91,25/12/2009,Swim USA,4,31,10,32,21.27869,25,01/11/2020,Entrenador B,15 competencias,Olimpico,Normal
+Marie Wattel,South Africa,184.29,74.71,1,56.76,12/04/2022,Pan Pacific Championships,1,29,12,30,21.99759,18,01/11/2020,Entrenador A,15 competencias,Olimpico,Normal
+Dana Vollmer,France,170.19,87.44,0,51.33,23/03/2009,Olympic Games,4,38,14,50,30.18854,32,15/01/2021,Entrenador D,20 competencias,Olimpico,Obesidad
+Noe Ponti,China,184.18,77.18,0,49.8,19/11/2023,Swim USA,3,36,6,39,22.75201,15,15/01/2021,Entrenador C,20 competencias,Olimpico,Normal
+Kristof Milak,Hungary,179.39,75.86,0,52.7,22/12/2001,Olympic Games,8,30,7,40,23.57308,15,Sin lesiones,Entrenador A,20 competencias,Olimpico,Normal
+Kristof Milak,South Africa,192.55,74.76,0,56.24,08/11/2000,European Championships,6,25,10,35,20.16426,20,10/02/2023,Entrenador A,5 competencias,Olimpico,Normal
+Noe Ponti,South Africa,176.35,72.56,0,59.29,04/01/2007,European Championships,3,24,9,45,23.3317,22,Sin lesiones,Entrenador A,15 competencias,Olimpico,Normal
+Emma McKeon,France,173.61,71.07,1,49.49,07/03/2005,Pan Pacific Championships,4,26,5,33,23.57962,27,Sin lesiones,Entrenador C,15 competencias,Olimpico,Normal
+Tom Shields,Hungary,191.15,86.05,1,53.65,18/08/2009,World Championships,6,35,6,34,23.55062,32,Sin lesiones,Entrenador B,20 competencias,Olimpico,Normal
+Louise Hansson,Hungary,188.93,85.62,1,50.29,24/04/2009,European Championships,7,39,7,28,23.98686,25,Sin lesiones,Entrenador D,10 competencias,Olimpico,Normal
+Emma McKeon,Singapore,188.75,86.73,1,52.5,19/07/2008,Pan Pacific Championships,4,22,8,36,24.3442,18,Sin lesiones,Entrenador D,20 competencias,Olimpico,Normal
+Dana Vollmer,China,177.38,60.11,0,54.92,20/05/2000,Swim USA,7,25,9,32,19.10458,32,10/02/2023,Entrenador A,10 competencias,Olimpico,Normal
+Dana Vollmer,South Africa,181.95,71.86,1,52.11,01/06/2014,Swim USA,4,23,10,30,21.70616,15,25/05/2019,Entrenador D,20 competencias,Olimpico,Normal
+Dana Vollmer,South Africa,174.2,79.96,0,52.62,02/10/2014,Swim USA,4,27,12,50,26.34975,15,Sin lesiones,Entrenador A,15 competencias,Olimpico,Sobrepeso
+Andrei Minakov,Hungary,186.05,61.38,0,56.57,24/02/2022,World Championships,2,20,14,39,17.7324,20,Sin lesiones,Entrenador C,20 competencias,Olimpico,Bajo peso
+Tom Shields,Singapore,188.1,69.33,1,51.58,26/11/2019,Pan Pacific Championships,2,31,6,40,19.59493,22,01/11/2020,Entrenador D,25 competencias,Olimpico,Normal
+Maggie MacNeil,Australia,174.56,68.15,0,50.77,16/08/2004,Pan Pacific Championships,1,18,7,35,22.36539,27,Sin lesiones,Entrenador C,25 competencias,Olimpico,Normal
+Zhang Yufei,France,187.29,68.3,1,55.38,15/02/2018,European Championships,6,28,10,45,19.47115,15,10/02/2023,Entrenador B,10 competencias,Olimpico,Normal
+Tom Shields,USA,179.76,77.65,1,58.77,18/05/2020,Swim USA,6,29,9,33,24.03009,32,Sin lesiones,Entrenador C,15 competencias,Olimpico,Normal
+Beryl Gastaldello,Australia,201.14,88.84,0,55.51,19/12/2020,Pan Pacific Championships,2,31,5,34,21.95895,25,15/01/2021,Entrenador B,5 competencias,Olimpico,Normal
+Beryl Gastaldello,Hungary,177.61,84.17,1,51.06,27/07/2009,European Championships,3,29,6,28,26.68225,18,Sin lesiones,Entrenador A,20 competencias,Olimpico,Sobrepeso
+Emma McKeon,Sweden,176.97,77.98,1,55.31,02/09/2007,Olympic Games,8,38,7,36,24.89912,32,01/11/2020,Entrenador D,15 competencias,Olimpico,Normal
+Caeleb Dressel,Singapore,187.95,74.6,0,51.56,12/08/2018,European Championships,1,36,8,32,21.11807,15,Sin lesiones,Entrenador D,20 competencias,Olimpico,Normal
+Tom Shields,USA,167.88,70.02,0,53.3,02/05/2007,Pan Pacific Championships,2,30,9,30,24.84415,15,01/11/2020,Entrenador B,25 competencias,Olimpico,Normal
+Tom Shields,China,176.66,55.95,0,50.36,21/08/2017,Pan Pacific Championships,7,25,10,50,17.92766,20,Sin lesiones,Entrenador B,5 competencias,Olimpico,Bajo peso
+Louise Hansson,France,163.34,76.59,1,52.75,22/06/2002,European Championships,1,24,12,39,28.70694,22,Sin lesiones,Entrenador B,25 competencias,Olimpico,Sobrepeso
+Kristof Milak,Sweden,186.1,63.32,0,48.81,20/01/2018,Pan Pacific Championships,4,26,14,40,18.28303,27,15/01/2021,Entrenador D,10 competencias,Olimpico,Bajo peso
+Marie Wattel,Singapore,171.31,88.12,1,55.39,22/09/2000,Swim USA,1,35,6,35,30.0268,32,Sin lesiones,Entrenador A,25 competencias,Olimpico,Obesidad
+Andrei Minakov,France,168.55,63.31,1,52.29,16/07/2020,Olympic Games,3,39,7,45,22.28511,25,01/11/2020,Entrenador A,25 competencias,Olimpico,Normal
+Maggie MacNeil,Australia,184.42,82.23,0,51.05,20/07/2001,Swim USA,8,22,10,33,24.17766,18,01/11/2020,Entrenador C,15 competencias,Olimpico,Normal
+Dana Vollmer,Hungary,175.33,73.82,0,53.92,03/01/2006,Swim USA,4,25,9,34,24.01384,32,10/02/2023,Entrenador C,20 competencias,Olimpico,Normal
+Noe Ponti,Australia,170.08,87.57,1,53.6,12/02/2023,World Championships,3,23,5,28,30.27254,15,15/01/2021,Entrenador A,25 competencias,Olimpico,Obesidad
+Louise Hansson,China,177.68,83.33,0,51.54,13/01/2023,Swim USA,6,27,6,36,26.39516,15,01/11/2020,Entrenador B,10 competencias,Olimpico,Sobrepeso
+Emma McKeon,France,186.91,81.54,1,56.19,28/11/2003,European Championships,6,20,7,32,23.34026,20,Sin lesiones,Entrenador C,10 competencias,Olimpico,Normal
+Andrei Minakov,Australia,186.59,54.24,0,52.12,25/02/2009,European Championships,4,31,8,30,15.57912,22,25/05/2019,Entrenador A,20 competencias,Olimpico,Bajo peso
+Michael Phelps,Sweden,186.96,71.48,0,57.83,20/07/2004,European Championships,5,18,9,50,20.44971,27,01/11/2020,Entrenador A,5 competencias,Olimpico,Normal
+Andrei Minakov,France,195.36,79.75,1,53.53,08/04/2009,European Championships,5,28,10,39,20.89582,32,Sin lesiones,Entrenador B,20 competencias,Olimpico,Normal
+Caeleb Dressel,China,200.36,63.42,0,54.26,18/05/2021,World Championships,6,29,12,40,15.79808,25,10/02/2023,Entrenador D,5 competencias,Olimpico,Bajo peso
+Louise Hansson,France,191,81.87,1,51.98,21/06/2009,European Championships,3,31,14,35,22.44182,18,15/01/2021,Entrenador A,25 competencias,Olimpico,Normal
+Michael Phelps,China,178.44,89.64,1,55.67,04/01/2014,European Championships,4,29,6,45,28.15253,32,Sin lesiones,Entrenador B,25 competencias,Olimpico,Sobrepeso
+Andrei Minakov,USA,180.08,65.05,0,50.56,09/06/2015,Pan Pacific Championships,5,38,7,33,20.05933,15,Sin lesiones,Entrenador D,25 competencias,Olimpico,Normal
+Marie Wattel,China,171.38,72.5,0,53.53,24/04/2002,World Championships,5,36,10,34,24.68412,15,25/05/2019,Entrenador D,15 competencias,Olimpico,Normal
+Michael Phelps,USA,180.11,76.08,0,53.71,21/12/2012,Pan Pacific Championships,7,37,9,28,23.45281,20,Sin lesiones,Entrenador A,10 competencias,Olimpico,Normal
+Maggie MacNeil,Sweden,179.48,81.47,0,58,01/08/2012,Swim USA,8,28,5,36,25.29098,22,Sin lesiones,Entrenador B,20 competencias,Olimpico,Sobrepeso
+Noe Ponti,USA,176.82,64.82,1,59.64,23/05/2016,Pan Pacific Championships,7,26,6,32,20.73224,27,Sin lesiones,Entrenador C,10 competencias,Olimpico,Normal
+Caeleb Dressel,USA,174.22,74.78,1,55.13,13/11/2023,Pan Pacific Championships,2,22,7,30,24.63709,15,20/06/2022,Entrenador D,20 competencias,Olimpico,Normal
+Caeleb Dressel,France,175.61,90.84,0,55.88,22/08/2008,Olympic Games,8,31,8,50,29.45633,15,10/02/2023,Entrenador C,15 competencias,Olimpico,Sobrepeso
+Nadador_profesional_456,USA,188.92,81.74,0,66.94,27/03/2023,State Meet,1,20,3,65.95,22.9,20,15/01/2021,Entrenador B,25 competencias,Profesional,Normal
+Nadador_profesional_544,USA,183.94,60.06,0,65.27,04/02/2024,National Championships,2,24,9,64.06,17.75,19,Sin lesiones,Entrenador B,20 competencias,Profesional,Bajo peso
+Nadador_profesional_977,China,186.12,77.28,0,63.05,16/03/2023,Regional Meet,1,23,2,61.9,22.31,18,25/05/2019,Entrenador B,25 competencias,Profesional,Normal
+Nadador_profesional_998,Russia,193.14,60.04,0,62.3,03/03/2023,Local Meet,1,22,2,61.77,16.1,13,25/05/2019,Entrenador C,25 competencias,Profesional,Bajo peso
+Nadador_profesional_531,Japan,183.76,86.06,0,58.67,16/03/2024,State Meet,7,20,5,57.1,25.49,16,15/01/2021,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_814,Japan,185.64,97.71,0,57.75,28/12/2023,State Meet,6,23,7,56.36,28.35,20,15/01/2021,Entrenador D,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_294,China,181,68.79,0,66.06,22/01/2023,National Championships,2,18,2,64.18,21,11,20/06/2022,Entrenador A,10 competencias,Profesional,Normal
+Nadador_profesional_940,Japan,180.01,70.83,0,66.68,23/12/2022,Local Meet,5,20,2,65.34,21.86,20,01/11/2020,Entrenador A,10 competencias,Profesional,Normal
+Nadador_profesional_715,China,192.69,61.17,0,66.87,17/10/2024,National Championships,3,24,8,66.79,16.47,13,10/02/2023,Entrenador A,20 competencias,Profesional,Bajo peso
+Nadador_profesional_21,USA,186.36,86.56,0,68.08,21/02/2023,State Meet,10,23,6,66.88,24.92,14,01/11/2020,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_385,Brazil,192.27,98.96,0,58.17,24/03/2023,Regional Meet,2,21,3,56.79,26.77,15,25/05/2019,Entrenador D,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_885,USA,193.96,97.34,0,61.21,14/06/2023,State Meet,6,24,1,60.62,25.87,11,01/11/2020,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_328,Brazil,182.14,95.65,0,57.95,25/12/2023,Regional Meet,4,23,3,57.7,28.83,14,15/01/2021,Entrenador C,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_452,Japan,194.61,86.79,0,63.91,15/10/2023,Regional Meet,5,21,6,63.55,22.92,10,20/06/2022,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_472,Japan,192.75,68.06,0,57.81,08/12/2023,National Championships,10,23,8,55.83,18.32,17,Sin lesiones,Entrenador A,5 competencias,Profesional,Bajo peso
+Nadador_profesional_892,Russia,188.18,96.55,0,67.36,24/02/2023,Local Meet,10,21,1,65.4,27.26,13,20/06/2022,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_186,Australia,183.38,80.47,0,56.96,03/07/2024,State Meet,2,20,3,56.62,23.93,20,20/06/2022,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_508,Australia,186.95,79.05,0,63.26,03/08/2024,National Championships,3,20,2,62,22.62,19,15/01/2021,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_513,Russia,192.97,93.71,0,65.99,15/10/2024,State Meet,10,22,4,64.66,25.17,18,15/01/2021,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_850,Brazil,183.78,85.06,0,57.23,08/12/2022,State Meet,6,21,2,56.31,25.18,14,25/05/2019,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_611,Japan,187.93,60.11,0,58.76,09/01/2023,Local Meet,6,18,3,56.97,17.02,13,10/02/2023,Entrenador A,15 competencias,Profesional,Bajo peso
+Nadador_profesional_74,Australia,193.71,83.72,0,61.61,15/03/2023,National Championships,3,18,2,60.59,22.31,13,Sin lesiones,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_783,USA,185.12,88.56,0,59.48,25/10/2023,Local Meet,4,22,3,59.08,25.84,19,25/05/2019,Entrenador D,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_902,Japan,186.65,63.33,0,61.91,16/07/2023,State Meet,2,20,1,61.26,18.18,17,15/01/2021,Entrenador C,25 competencias,Profesional,Bajo peso
+Nadador_profesional_149,USA,182.5,69.26,0,67.85,03/03/2023,Regional Meet,3,22,7,66.48,20.79,15,Sin lesiones,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_173,Russia,190.93,86.17,0,64.78,29/03/2023,State Meet,8,20,1,63.81,23.64,12,10/02/2023,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_668,Russia,187.26,75.9,0,57.55,20/02/2023,State Meet,8,20,5,56.26,21.64,20,10/02/2023,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_303,USA,194.26,79.47,0,57.57,22/03/2024,Regional Meet,5,23,5,56,21.06,20,15/01/2021,Entrenador B,5 competencias,Profesional,Normal
+Nadador_profesional_961,Australia,188.65,60.65,0,65.19,30/05/2024,National Championships,8,19,1,64.17,17.04,18,20/06/2022,Entrenador C,5 competencias,Profesional,Bajo peso
+Nadador_profesional_921,Japan,185.63,98.01,0,57.11,12/04/2024,National Championships,7,23,4,55.55,28.44,19,01/11/2020,Entrenador A,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_333,Australia,193.91,77.37,0,64.44,13/04/2023,National Championships,3,21,1,62.77,20.58,10,Sin lesiones,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_646,Brazil,193.64,88.38,0,64.74,02/11/2023,Regional Meet,4,21,3,63.84,23.57,14,01/11/2020,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_106,USA,194,92.08,0,66.68,19/08/2024,Regional Meet,1,24,9,66.06,24.47,12,01/11/2020,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_584,China,186.91,74.15,0,59.61,02/12/2023,Local Meet,7,18,2,58.13,21.22,11,01/11/2020,Entrenador D,20 competencias,Profesional,Normal
+Nadador_profesional_891,Japan,183.56,74.89,0,57,14/10/2024,National Championships,2,19,2,56.05,22.23,13,01/11/2020,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_512,Russia,188.78,87.72,0,58.35,09/07/2024,Regional Meet,3,22,2,56.98,24.61,20,01/11/2020,Entrenador A,10 competencias,Profesional,Normal
+Nadador_profesional_352,Australia,191.45,67.23,0,60.45,11/03/2023,Local Meet,5,24,6,58.65,18.34,20,01/11/2020,Entrenador D,20 competencias,Profesional,Bajo peso
+Nadador_profesional_577,Japan,183.33,76.64,0,67.59,25/02/2024,State Meet,8,24,8,67.03,22.8,12,20/06/2022,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_652,China,184.81,97.18,0,57.15,12/01/2023,Local Meet,6,21,4,55.45,28.45,14,01/11/2020,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_666,Australia,190.82,96.95,0,56.75,22/04/2023,Regional Meet,5,21,2,55.18,26.63,18,Sin lesiones,Entrenador B,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_359,Australia,180.31,63.99,0,63.68,16/02/2024,Regional Meet,7,20,3,62.5,19.68,18,15/01/2021,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_346,Australia,194.32,62.93,0,66.51,04/12/2023,National Championships,3,22,7,65.2,16.67,16,25/05/2019,Entrenador A,15 competencias,Profesional,Bajo peso
+Nadador_profesional_599,Australia,186.92,89.28,0,63.88,05/01/2023,Regional Meet,8,22,4,63.63,25.55,12,20/06/2022,Entrenador C,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_586,China,194.43,71.25,0,57.84,26/04/2023,Local Meet,3,19,2,57.21,18.85,10,Sin lesiones,Entrenador D,20 competencias,Profesional,Normal
+Nadador_profesional_775,USA,192.02,93.4,0,64.91,09/01/2023,Regional Meet,4,19,3,63.38,25.33,10,10/02/2023,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_394,Australia,180.73,73.28,0,63.7,22/06/2024,State Meet,6,24,5,62.61,22.43,15,15/01/2021,Entrenador D,20 competencias,Profesional,Normal
+Nadador_profesional_395,Australia,184.49,69.79,0,60.8,19/07/2024,State Meet,5,20,4,59.42,20.5,14,25/05/2019,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_701,Japan,180.5,72.37,0,63.39,02/02/2023,Local Meet,2,19,1,62.26,22.21,15,10/02/2023,Entrenador A,15 competencias,Profesional,Normal
+Nadador_profesional_992,Russia,187.1,77.2,0,62.73,19/02/2024,Local Meet,6,24,5,61.11,22.05,13,20/06/2022,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_572,Australia,183.17,78.51,0,57.21,13/07/2023,National Championships,7,18,2,56.06,23.4,20,25/05/2019,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_12,China,184.16,71.28,0,62.31,04/01/2024,Local Meet,9,30,12,62.2,21.02,16,20/06/2022,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_21,China,192.32,71.12,0,62.74,31/07/2023,Regional Meet,1,31,9,61.48,19.23,11,15/01/2021,Entrenador C,20 competencias,Profesional,Normal
+Nadador_profesional_692,China,192.58,80.59,0,63.55,26/11/2022,National Championships,7,32,11,61.87,21.73,10,20/06/2022,Entrenador C,20 competencias,Profesional,Normal
+Nadador_profesional_79,Australia,194.29,87.38,0,57.68,05/06/2023,Local Meet,2,35,6,55.76,23.15,10,20/06/2022,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_7,USA,183.43,64.33,0,60.15,11/05/2024,State Meet,8,32,2,58.75,19.12,10,25/05/2019,Entrenador A,10 competencias,Profesional,Normal
+Nadador_profesional_630,Australia,185.81,65.14,0,62,27/04/2024,National Championships,1,27,2,61.31,18.87,15,Sin lesiones,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_205,Japan,190.43,94.21,0,57.27,26/11/2023,State Meet,9,28,11,57.06,25.98,16,10/02/2023,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_545,Russia,190.93,86.41,0,57.29,06/08/2023,Local Meet,10,33,15,55.58,23.7,16,10/02/2023,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_702,Brazil,184.93,61.63,0,64.84,06/12/2023,Regional Meet,10,28,6,63.48,18.02,12,01/11/2020,Entrenador B,5 competencias,Profesional,Bajo peso
+Nadador_profesional_111,Australia,183.59,87.57,0,65.46,30/04/2023,National Championships,7,30,5,63.9,25.98,19,20/06/2022,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_836,Brazil,191.83,82.1,0,66.04,28/08/2023,State Meet,3,28,8,65.76,22.31,10,25/05/2019,Entrenador B,20 competencias,Profesional,Normal
+Nadador_profesional_68,Brazil,181.49,98.71,0,66.54,03/03/2023,Regional Meet,8,27,8,64.62,29.97,12,Sin lesiones,Entrenador B,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_759,Japan,189.34,75.27,0,62.61,19/03/2024,National Championships,8,32,12,60.93,21,16,01/11/2020,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_299,Japan,184.63,87.91,0,62.06,30/09/2024,State Meet,9,34,5,60.82,25.79,19,25/05/2019,Entrenador C,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_989,China,188.32,60.85,0,57.97,15/12/2022,National Championships,9,28,1,57.26,17.16,15,25/05/2019,Entrenador A,10 competencias,Profesional,Bajo peso
+Nadador_profesional_846,China,181.87,60.96,0,62.03,20/06/2024,Regional Meet,10,29,12,61.97,18.43,12,15/01/2021,Entrenador A,25 competencias,Profesional,Bajo peso
+Nadador_profesional_248,Russia,183.65,76.81,0,56.46,01/06/2023,Regional Meet,7,35,1,55.73,22.77,16,01/11/2020,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_382,Japan,190.83,73.32,0,64.59,17/10/2024,National Championships,7,25,3,64.22,20.13,10,15/01/2021,Entrenador B,20 competencias,Profesional,Normal
+Nadador_profesional_830,Japan,181.98,94.25,0,57.29,18/01/2024,National Championships,4,28,8,57.05,28.46,15,20/06/2022,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_255,China,190.91,73.82,0,65.64,15/01/2023,State Meet,9,32,13,64.1,20.25,15,15/01/2021,Entrenador C,15 competencias,Profesional,Normal
+Nadador_profesional_825,Japan,191.67,63.4,0,58.6,11/11/2023,Local Meet,1,30,14,57.16,17.26,13,20/06/2022,Entrenador A,5 competencias,Profesional,Bajo peso
+Nadador_profesional_686,Brazil,184.4,99.32,0,63.8,20/10/2023,Local Meet,6,30,11,63.21,29.21,15,10/02/2023,Entrenador A,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_141,Russia,187.63,82.62,0,56.8,04/05/2023,National Championships,3,27,5,55.69,23.47,11,25/05/2019,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_311,Brazil,189.39,87.68,0,63.18,09/01/2023,National Championships,4,32,1,62.31,24.44,10,Sin lesiones,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_15,USA,190.44,64.77,0,65.22,22/04/2024,National Championships,1,31,12,63.79,17.86,20,Sin lesiones,Entrenador D,10 competencias,Profesional,Bajo peso
+Nadador_profesional_751,Japan,182.3,71.65,0,61.54,09/03/2023,Regional Meet,10,34,13,61.34,21.56,11,10/02/2023,Entrenador D,10 competencias,Profesional,Normal
+Nadador_profesional_226,Brazil,186.51,66.2,0,60.9,21/08/2024,National Championships,6,30,1,60.72,19.03,10,15/01/2021,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_648,Australia,184.67,83.8,0,63.57,03/08/2023,State Meet,4,29,3,63.04,24.57,12,20/06/2022,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_820,China,183.88,72.47,0,57.97,18/07/2023,National Championships,4,29,5,56.02,21.43,14,01/11/2020,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_978,Australia,180.7,86.3,0,63.69,11/05/2024,National Championships,3,32,16,61.75,26.43,10,01/11/2020,Entrenador B,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_361,Brazil,180.73,73.3,0,61.79,25/11/2023,State Meet,1,34,4,61.41,22.44,10,20/06/2022,Entrenador B,5 competencias,Profesional,Normal
+Nadador_profesional_582,China,185.8,85.38,0,62.81,17/02/2024,Local Meet,7,25,3,61.78,24.73,13,01/11/2020,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_981,Australia,192.93,92.51,0,59.93,01/03/2023,Local Meet,3,25,7,58.32,24.85,10,Sin lesiones,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_782,Brazil,185.92,68.71,0,57.7,17/08/2024,Regional Meet,8,26,11,56.05,19.88,12,15/01/2021,Entrenador B,5 competencias,Profesional,Normal
+Nadador_profesional_103,USA,193.31,88.48,0,58.98,25/12/2022,National Championships,8,28,6,58.41,23.68,16,25/05/2019,Entrenador A,15 competencias,Profesional,Normal
+Nadador_profesional_564,Brazil,187.72,97.39,0,61.95,06/09/2024,Local Meet,8,34,10,60.31,27.64,15,20/06/2022,Entrenador A,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_690,Japan,188.73,74.72,0,58.58,11/09/2023,State Meet,8,35,8,57.79,20.98,11,20/06/2022,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_982,China,184.58,83.53,0,65.7,23/09/2024,Local Meet,5,31,15,65.28,24.52,15,01/11/2020,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_760,Australia,188.61,83.69,0,63.69,28/05/2023,State Meet,10,26,3,63.68,23.53,11,Sin lesiones,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_928,USA,182.36,68.1,0,56.16,05/05/2024,National Championships,8,31,10,55.18,20.48,12,Sin lesiones,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_301,Russia,188.25,92.73,0,65.96,01/03/2024,Local Meet,4,25,8,64.5,26.17,11,10/02/2023,Entrenador D,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_571,China,190.14,93.93,0,62.87,04/03/2023,National Championships,5,28,5,61.97,25.98,17,10/02/2023,Entrenador C,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_913,Russia,193.04,95.2,0,61.82,20/11/2023,National Championships,10,29,1,60.71,25.55,13,20/06/2022,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_746,Russia,182.91,71.23,0,61.49,25/11/2022,Local Meet,5,28,11,60.48,21.29,12,20/06/2022,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_949,Japan,183.33,94.9,0,62.31,24/01/2023,Local Meet,8,25,3,61.2,28.24,14,20/06/2022,Entrenador B,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_33,Australia,192.63,85.43,0,59.46,28/03/2024,National Championships,3,30,3,58.98,23.02,20,20/06/2022,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_657,China,186.47,80.29,0,56.3,11/11/2023,Local Meet,7,25,7,55.95,23.09,12,Sin lesiones,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_110,Russia,185,73.77,0,56.86,14/05/2023,National Championships,10,34,15,56.44,21.55,19,20/06/2022,Entrenador A,15 competencias,Profesional,Normal
+Nadador_profesional_324,Japan,182.55,72,0,65.67,25/11/2022,Local Meet,4,29,8,64.36,21.61,18,15/01/2021,Entrenador C,5 competencias,Profesional,Normal
+Nadador_profesional_463,Australia,185.03,74.55,0,65.31,18/08/2023,Local Meet,7,29,1,65.04,21.78,16,Sin lesiones,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_53,Japan,189.13,87.64,0,63.41,14/09/2024,National Championships,1,38,8,62.2,24.5,17,25/05/2019,Entrenador C,15 competencias,Profesional,Normal
+Nadador_profesional_219,China,191.28,77.29,0,64.85,01/04/2024,Local Meet,10,39,20,63.02,21.12,15,20/06/2022,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_915,Australia,188.91,72.86,0,60.9,14/03/2023,National Championships,8,38,8,60,20.42,18,15/01/2021,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_911,Japan,192.53,64.65,0,63.59,23/09/2023,State Meet,5,39,20,63.55,17.44,15,10/02/2023,Entrenador B,15 competencias,Profesional,Bajo peso
+Nadador_profesional_336,China,184.81,86.58,0,61.48,20/09/2024,State Meet,8,38,23,61.19,25.35,12,Sin lesiones,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_754,Russia,185.43,97.21,0,60.73,24/08/2023,Local Meet,1,36,12,60.26,28.27,17,10/02/2023,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_758,Brazil,186.96,81.51,0,63.23,07/01/2023,State Meet,9,36,8,62.49,23.32,11,20/06/2022,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_682,Australia,186.93,62.58,0,60.86,27/06/2023,State Meet,7,38,5,59.81,17.91,13,Sin lesiones,Entrenador C,10 competencias,Profesional,Bajo peso
+Nadador_profesional_872,Australia,188.51,88.64,0,60.51,20/10/2024,National Championships,3,37,14,59.84,24.94,17,15/01/2021,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_390,Russia,189.62,93.42,0,61.84,14/11/2023,State Meet,3,39,9,61.09,25.98,12,15/01/2021,Entrenador D,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_532,USA,181.85,80.99,0,63.57,07/04/2024,Regional Meet,10,37,2,62.4,24.49,18,10/02/2023,Entrenador D,20 competencias,Profesional,Normal
+Nadador_profesional_329,Russia,182.02,87.84,0,60.17,01/06/2024,National Championships,8,40,1,58.34,26.51,13,Sin lesiones,Entrenador D,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_772,China,187.45,82.37,0,64.59,09/09/2024,National Championships,1,38,21,63.57,23.44,20,Sin lesiones,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_36,Russia,193.96,82.37,0,57.5,25/01/2024,Regional Meet,7,37,21,55.89,21.89,17,20/06/2022,Entrenador D,10 competencias,Profesional,Normal
+Nadador_profesional_732,Australia,190.01,82.14,0,60.92,26/12/2023,State Meet,3,37,19,59.51,22.75,16,Sin lesiones,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_480,USA,190.6,95.4,0,56.66,27/09/2023,Regional Meet,9,38,6,55.82,26.26,14,Sin lesiones,Entrenador A,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_857,Russia,183.71,79.6,0,62.51,04/06/2023,State Meet,10,38,19,61.56,23.59,11,10/02/2023,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_518,Australia,183.39,74.15,0,63.67,07/10/2024,Regional Meet,7,36,8,61.82,22.05,18,10/02/2023,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_399,Russia,190.8,60,0,61.78,26/10/2023,National Championships,5,36,16,60.13,16.48,17,01/11/2020,Entrenador C,20 competencias,Profesional,Bajo peso
+Nadador_profesional_605,USA,187.8,81.51,0,63.01,18/07/2024,Regional Meet,8,36,5,63,23.11,19,Sin lesiones,Entrenador C,20 competencias,Profesional,Normal
+Nadador_profesional_545,Australia,183.22,84.63,0,64.36,05/02/2024,Local Meet,1,40,23,63.19,25.21,14,01/11/2020,Entrenador D,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_941,USA,190.96,99.34,0,58.43,12/11/2024,Local Meet,3,40,17,56.61,27.24,12,20/06/2022,Entrenador D,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_578,Japan,181.61,77.14,0,62.14,22/11/2023,National Championships,8,38,8,61.63,23.39,11,01/11/2020,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_511,Brazil,181.54,63.43,0,59.54,22/12/2022,Local Meet,6,36,1,57.56,19.25,11,15/01/2021,Entrenador C,20 competencias,Profesional,Normal
+Nadador_profesional_745,China,192.64,76.92,0,66.15,26/03/2023,National Championships,6,39,13,65.03,20.73,14,01/11/2020,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_78,Russia,180.57,73.78,0,65.99,05/04/2024,State Meet,7,38,14,64.83,22.63,16,Sin lesiones,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_462,Australia,184.74,95.15,0,63.14,26/08/2023,State Meet,8,37,10,61.24,27.88,19,20/06/2022,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_290,China,193.7,65.99,0,59.13,02/05/2023,Regional Meet,10,39,9,57.94,17.59,18,01/11/2020,Entrenador A,10 competencias,Profesional,Bajo peso
+Nadador_profesional_192,Russia,184.8,90,0,59.7,12/04/2023,National Championships,3,37,11,59.54,26.35,11,Sin lesiones,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_430,China,193.73,90.28,0,58.19,17/12/2022,State Meet,7,38,15,56.75,24.05,20,25/05/2019,Entrenador A,10 competencias,Profesional,Normal
+Nadador_profesional_65,Russia,181.8,68.38,0,63.68,21/10/2023,National Championships,1,40,7,61.89,20.69,17,01/11/2020,Entrenador C,5 competencias,Profesional,Normal
+Nadador_profesional_155,China,191.39,90.58,0,64.02,03/08/2024,State Meet,5,40,22,63.72,24.73,11,Sin lesiones,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_105,Japan,188.48,97.75,0,60.32,02/01/2023,Local Meet,6,39,4,60.07,27.52,15,01/11/2020,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_859,Australia,189.58,62.61,0,64.12,17/11/2022,Local Meet,10,38,23,62.52,17.42,15,10/02/2023,Entrenador D,25 competencias,Profesional,Bajo peso
+Nadador_profesional_806,Russia,185.97,63.65,0,62.96,15/10/2024,National Championships,10,38,20,62.44,18.4,17,01/11/2020,Entrenador B,20 competencias,Profesional,Bajo peso
+Nadador_profesional_801,Australia,188.35,89.47,0,60.24,02/04/2024,National Championships,6,37,12,58.48,25.22,20,25/05/2019,Entrenador A,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_433,Australia,182.8,83.37,0,60.3,07/10/2023,National Championships,6,40,15,58.9,24.95,11,01/11/2020,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_275,China,182.49,98.66,0,58.78,21/07/2023,Regional Meet,9,39,19,57.71,29.63,14,25/05/2019,Entrenador C,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_339,Brazil,181.62,86.48,0,57.49,23/05/2023,Regional Meet,8,40,16,57.49,26.22,17,Sin lesiones,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_66,Japan,183.32,85.05,0,59.49,17/04/2023,Local Meet,5,40,14,57.82,25.31,17,25/05/2019,Entrenador A,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_229,China,187.64,82.96,0,65.62,07/10/2024,Regional Meet,1,36,5,64.99,23.56,20,Sin lesiones,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_324,Japan,192.73,90.25,0,61.24,15/08/2023,State Meet,4,38,16,60.13,24.3,14,01/11/2020,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_949,China,187.42,67.48,0,61.93,25/02/2023,National Championships,2,36,9,60.21,19.21,11,10/02/2023,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_720,Brazil,190.08,80.93,0,63.39,02/01/2023,Local Meet,9,37,6,61.8,22.4,10,15/01/2021,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_144,Russia,194.88,95.69,0,57.58,03/01/2023,Regional Meet,6,36,17,57,25.2,11,Sin lesiones,Entrenador A,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_118,Russia,188.77,78.41,0,58.13,12/12/2023,Local Meet,3,38,13,57.96,22,20,10/02/2023,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_113,Japan,184.1,67.19,0,60.55,15/05/2023,Regional Meet,1,38,10,59.02,19.82,12,20/06/2022,Entrenador B,20 competencias,Profesional,Normal
+Nadador_profesional_943,USA,188.73,70.59,0,60.98,20/07/2023,National Championships,7,40,14,60.23,19.82,20,Sin lesiones,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_58,Russia,186.78,61.63,0,62.6,18/12/2022,State Meet,1,39,15,60.73,17.67,11,15/01/2021,Entrenador C,10 competencias,Profesional,Bajo peso
+Nadador_profesional_97,Brazil,186.62,76.35,0,61.2,22/06/2024,Local Meet,8,37,11,59.74,21.92,10,01/11/2020,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_997,USA,177.86,92.6,1,62.59,05/05/2024,National Championships,6,20,5,62.21,29.27,12,01/11/2020,Entrenador A,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_42,China,171.36,97.11,1,62.9,15/05/2023,State Meet,9,20,5,62.69,33.07,18,25/05/2019,Entrenador B,15 competencias,Profesional,Obesidad
+Nadador_profesional_945,Russia,170.08,92.11,1,62.49,09/04/2024,National Championships,7,18,3,61.76,31.84,12,15/01/2021,Entrenador D,25 competencias,Profesional,Obesidad
+Nadador_profesional_880,Japan,170.68,80.94,1,62.93,19/12/2022,Local Meet,8,19,1,61.48,27.78,12,01/11/2020,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_840,Australia,176.96,70.26,1,61.05,12/04/2023,State Meet,2,18,3,61,22.44,17,25/05/2019,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_69,China,168.45,62.14,1,61.33,07/12/2022,Regional Meet,5,24,7,61.17,21.9,14,10/02/2023,Entrenador D,10 competencias,Profesional,Normal
+Nadador_profesional_558,Japan,178.35,91.07,1,61.52,26/08/2024,National Championships,1,19,4,60.88,28.63,13,01/11/2020,Entrenador D,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_521,Japan,178.16,63.69,1,63.3,25/09/2024,Local Meet,4,21,4,61.38,20.07,17,01/11/2020,Entrenador D,10 competencias,Profesional,Normal
+Nadador_profesional_688,China,171.76,90.61,1,61.97,29/01/2024,Local Meet,5,18,1,61.51,30.71,14,Sin lesiones,Entrenador D,25 competencias,Profesional,Obesidad
+Nadador_profesional_852,Brazil,175.66,98.49,1,62.39,03/02/2023,Regional Meet,1,24,6,61.79,31.92,13,01/11/2020,Entrenador A,20 competencias,Profesional,Obesidad
+Nadador_profesional_749,China,179.94,80.45,1,60.52,04/12/2022,Local Meet,7,19,1,59.84,24.85,14,01/11/2020,Entrenador B,20 competencias,Profesional,Normal
+Nadador_profesional_145,Russia,173.04,70.02,1,67.33,02/08/2024,Local Meet,1,23,6,66.06,23.38,17,Sin lesiones,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_613,USA,176.04,89.27,1,62.29,13/08/2023,Regional Meet,10,19,1,61.18,28.81,20,01/11/2020,Entrenador A,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_424,Japan,173.27,63.7,1,59.19,22/11/2022,National Championships,7,24,6,58.95,21.22,14,25/05/2019,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_491,Australia,172.44,74.84,1,63.58,22/11/2023,National Championships,5,18,2,61.94,25.17,11,15/01/2021,Entrenador C,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_446,Japan,175.54,60.55,1,60.32,25/04/2023,National Championships,4,18,2,59.03,19.65,12,20/06/2022,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_176,Russia,177.57,79.55,1,63.74,26/11/2023,National Championships,3,18,2,62.65,25.23,13,10/02/2023,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_811,Japan,175.01,88.65,1,63.9,24/01/2023,National Championships,7,20,1,63.1,28.94,10,15/01/2021,Entrenador A,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_27,Brazil,172.45,92.82,1,62.69,11/04/2023,Regional Meet,2,21,1,62.57,31.21,10,20/06/2022,Entrenador A,15 competencias,Profesional,Obesidad
+Nadador_profesional_595,Australia,179.48,77.78,1,64.95,20/08/2024,State Meet,8,22,4,63.08,24.15,17,25/05/2019,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_23,Japan,174.84,76.94,1,62.28,08/06/2023,State Meet,8,22,1,61.19,25.17,13,15/01/2021,Entrenador B,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_371,China,173.59,96.96,1,59.11,21/07/2024,National Championships,2,23,1,57.89,32.18,13,10/02/2023,Entrenador B,15 competencias,Profesional,Obesidad
+Nadador_profesional_167,Australia,179.11,75.04,1,60.28,27/11/2022,State Meet,4,21,2,58.5,23.39,10,10/02/2023,Entrenador D,20 competencias,Profesional,Normal
+Nadador_profesional_513,Russia,177.08,67.43,1,65.64,27/12/2022,National Championships,5,18,3,65.07,21.5,18,Sin lesiones,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_281,China,178.35,87.64,1,62.69,25/05/2023,State Meet,2,20,4,62.46,27.55,17,20/06/2022,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_557,Brazil,169.98,94.03,1,65.85,06/02/2024,National Championships,2,21,3,65.33,32.54,18,10/02/2023,Entrenador D,25 competencias,Profesional,Obesidad
+Nadador_profesional_252,Japan,173.16,75.94,1,61.21,15/03/2024,National Championships,4,22,5,59.58,25.33,17,01/11/2020,Entrenador A,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_119,Japan,179.61,96.3,1,60.89,08/10/2023,State Meet,10,23,1,59.17,29.85,18,Sin lesiones,Entrenador A,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_915,China,176.31,76,1,64.73,02/04/2024,Local Meet,6,20,1,64.07,24.45,18,10/02/2023,Entrenador B,20 competencias,Profesional,Normal
+Nadador_profesional_136,Brazil,176.85,81.76,1,63.3,07/11/2024,Regional Meet,6,19,4,63.08,26.14,13,25/05/2019,Entrenador D,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_502,USA,174.61,64.15,1,63.35,06/10/2024,National Championships,4,20,2,61.43,21.04,17,01/11/2020,Entrenador C,15 competencias,Profesional,Normal
+Nadador_profesional_497,China,178.95,74.09,1,58.81,06/01/2024,Regional Meet,4,24,9,57.85,23.14,10,Sin lesiones,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_637,China,174.34,72.11,1,58.76,31/03/2024,State Meet,8,19,2,57.86,23.72,13,15/01/2021,Entrenador A,15 competencias,Profesional,Normal
+Nadador_profesional_239,Japan,170.05,81.65,1,63.22,24/05/2023,Regional Meet,9,19,3,62.39,28.24,17,20/06/2022,Entrenador C,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_192,China,177.52,66.06,1,64.96,13/12/2022,National Championships,5,18,1,63.48,20.96,15,10/02/2023,Entrenador D,20 competencias,Profesional,Normal
+Nadador_profesional_28,Russia,168.65,98.4,1,63.51,19/09/2023,State Meet,9,19,3,63.33,34.6,10,25/05/2019,Entrenador C,20 competencias,Profesional,Obesidad
+Nadador_profesional_757,Brazil,171.6,70.1,1,61.37,01/08/2023,State Meet,3,24,3,60.93,23.81,16,15/01/2021,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_853,Brazil,179.47,79.48,1,59.9,16/05/2023,National Championships,2,23,5,59.31,24.68,13,Sin lesiones,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_372,Australia,172.08,99.92,1,66.27,09/12/2022,Local Meet,3,20,5,65.69,33.74,12,15/01/2021,Entrenador C,25 competencias,Profesional,Obesidad
+Nadador_profesional_536,Japan,174.71,80.92,1,58.86,09/02/2023,State Meet,7,23,2,57.7,26.51,15,25/05/2019,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_660,Japan,179.63,70.7,1,64.64,26/06/2023,Regional Meet,8,23,2,64.22,21.91,10,25/05/2019,Entrenador A,15 competencias,Profesional,Normal
+Nadador_profesional_213,Russia,173.56,89.18,1,65.65,08/07/2024,Regional Meet,4,18,2,64.5,29.61,15,10/02/2023,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_658,USA,170.81,69.11,1,66.82,27/08/2024,Local Meet,9,22,1,65.25,23.69,16,01/11/2020,Entrenador B,20 competencias,Profesional,Normal
+Nadador_profesional_80,Brazil,171.37,73.2,1,63.56,25/09/2024,State Meet,7,24,9,61.71,24.93,13,10/02/2023,Entrenador D,10 competencias,Profesional,Normal
+Nadador_profesional_980,Russia,178.58,80.59,1,64.75,30/04/2023,State Meet,8,21,6,63.02,25.27,11,20/06/2022,Entrenador D,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_268,China,170.53,64.66,1,67.09,22/07/2023,Local Meet,3,22,3,65.49,22.23,10,01/11/2020,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_303,Japan,172.84,86.27,1,67.91,12/06/2024,Local Meet,1,19,4,66.98,28.88,10,01/11/2020,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_31,Japan,174.36,64.62,1,62.68,24/10/2024,Local Meet,2,22,1,61.75,21.26,16,25/05/2019,Entrenador D,5 competencias,Profesional,Normal
+Nadador_profesional_702,China,173.99,67.03,1,60.89,14/01/2024,Local Meet,9,21,4,59.16,22.14,13,10/02/2023,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_491,Brazil,170.84,63.34,1,65.08,25/10/2024,National Championships,6,24,9,64.13,21.7,19,20/06/2022,Entrenador C,25 competencias,Profesional,Normal
+Nadador_profesional_874,Russia,172.61,65.21,1,68.06,04/01/2024,Local Meet,5,35,19,66.08,21.89,11,20/06/2022,Entrenador B,25 competencias,Profesional,Normal
+Nadador_profesional_542,Brazil,179.11,98.84,1,65.75,05/09/2024,Local Meet,9,34,16,64.68,30.81,12,10/02/2023,Entrenador B,20 competencias,Profesional,Obesidad
+Nadador_profesional_718,Russia,175.52,77.84,1,64.99,05/12/2023,Local Meet,3,28,6,64.39,25.27,10,Sin lesiones,Entrenador D,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_979,USA,172.43,91.31,1,72.41,25/10/2023,Regional Meet,7,33,15,71.55,30.71,13,10/02/2023,Entrenador C,20 competencias,Profesional,Obesidad
+Nadador_profesional_408,Russia,172.1,64.44,1,60.77,19/11/2022,State Meet,10,32,6,60.72,21.76,16,10/02/2023,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_36,Russia,170.8,76.95,1,63.65,29/06/2023,National Championships,4,32,11,61.66,26.38,12,01/11/2020,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_15,USA,174.09,72.41,1,61.97,09/09/2023,Regional Meet,6,30,15,60.8,23.89,17,15/01/2021,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_351,Russia,175.84,78.59,1,66.47,16/11/2023,State Meet,9,30,1,65.75,25.42,15,01/11/2020,Entrenador C,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_503,Japan,170.68,77.76,1,58.66,26/01/2024,National Championships,2,26,9,57.38,26.69,14,20/06/2022,Entrenador A,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_342,USA,178.55,83.76,1,59.28,20/11/2023,State Meet,6,30,11,57.66,26.27,12,25/05/2019,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_874,Brazil,172.46,80.67,1,69.62,10/01/2024,State Meet,2,27,11,69.21,27.12,17,15/01/2021,Entrenador C,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_291,Brazil,179.84,66.92,1,69.04,27/03/2023,Local Meet,7,32,2,68.17,20.69,12,15/01/2021,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_202,China,168.49,89.79,1,65.85,08/05/2023,Regional Meet,5,32,14,65.08,31.63,20,10/02/2023,Entrenador B,5 competencias,Profesional,Obesidad
+Nadador_profesional_443,Australia,175.32,67.48,1,59.84,16/09/2023,National Championships,1,33,7,59.11,21.95,13,25/05/2019,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_934,Russia,172.34,85.11,1,58.52,13/11/2023,State Meet,3,35,11,57.44,28.66,18,20/06/2022,Entrenador A,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_840,Japan,179.33,89.37,1,69.92,22/03/2023,Regional Meet,10,34,13,69.65,27.79,20,01/11/2020,Entrenador C,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_399,Japan,174.89,86.16,1,61.58,21/01/2023,Regional Meet,5,28,1,61.02,28.17,19,10/02/2023,Entrenador C,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_922,Russia,175.26,87.45,1,59.24,30/07/2024,National Championships,1,35,5,57.58,28.47,16,20/06/2022,Entrenador D,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_16,China,168.14,78.37,1,71.48,22/02/2023,Local Meet,7,25,4,69.84,27.72,15,15/01/2021,Entrenador B,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_102,Brazil,178.35,91.75,1,59.51,06/03/2023,Regional Meet,7,26,2,58.55,28.84,13,15/01/2021,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_555,China,179.47,76.02,1,59.28,07/09/2023,Local Meet,4,27,5,58.21,23.6,19,15/01/2021,Entrenador C,20 competencias,Profesional,Normal
+Nadador_profesional_487,USA,177.28,65.18,1,69.81,12/04/2024,State Meet,6,32,1,67.91,20.74,12,10/02/2023,Entrenador A,20 competencias,Profesional,Normal
+Nadador_profesional_685,China,171.91,65.63,1,69.21,14/01/2024,National Championships,9,26,2,68.61,22.21,15,10/02/2023,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_114,USA,175.68,96.38,1,60.15,19/01/2023,Local Meet,3,28,4,58.85,31.23,17,25/05/2019,Entrenador C,10 competencias,Profesional,Obesidad
+Nadador_profesional_136,Australia,174.63,94.18,1,72.39,04/02/2023,State Meet,5,34,3,70.41,30.88,13,Sin lesiones,Entrenador D,20 competencias,Profesional,Obesidad
+Nadador_profesional_223,Russia,173.57,95.3,1,61.79,18/04/2023,Local Meet,10,29,7,61.52,31.63,20,Sin lesiones,Entrenador A,15 competencias,Profesional,Obesidad
+Nadador_profesional_664,Russia,169.96,95.7,1,65.97,25/04/2023,Regional Meet,1,34,3,65.05,33.13,20,25/05/2019,Entrenador D,15 competencias,Profesional,Obesidad
+Nadador_profesional_830,Japan,173.2,61.15,1,70.99,13/10/2024,State Meet,5,33,10,70.18,20.38,19,25/05/2019,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_532,Russia,169,80.95,1,64.61,31/12/2022,Local Meet,2,29,3,63.81,28.34,16,10/02/2023,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_465,Russia,175.53,83.08,1,61.18,02/07/2024,National Championships,8,33,12,60.85,26.96,18,20/06/2022,Entrenador A,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_745,Japan,170.49,62.32,1,70.01,11/02/2023,Local Meet,6,30,10,68.9,21.44,12,15/01/2021,Entrenador B,25 competencias,Profesional,Normal
+Nadador_profesional_290,Japan,173.55,63.34,1,70.17,15/05/2024,Local Meet,7,27,8,69.32,21.03,12,Sin lesiones,Entrenador A,10 competencias,Profesional,Normal
+Nadador_profesional_229,China,177.1,63.68,1,69.68,24/03/2024,Local Meet,1,33,9,68.02,20.3,11,25/05/2019,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_982,Brazil,169.51,67.4,1,62.17,31/07/2024,Local Meet,2,34,10,61.53,23.46,12,01/11/2020,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_843,Japan,171.01,96.55,1,57.51,05/08/2023,Local Meet,6,28,8,55.81,33.01,20,01/11/2020,Entrenador D,20 competencias,Profesional,Obesidad
+Nadador_profesional_614,China,178.31,83.93,1,70.83,30/10/2023,Regional Meet,1,26,4,69.9,26.4,15,20/06/2022,Entrenador D,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_647,Japan,172.13,95.26,1,70.5,31/05/2023,State Meet,6,32,11,69.26,32.15,17,10/02/2023,Entrenador C,25 competencias,Profesional,Obesidad
+Nadador_profesional_46,Russia,172.74,95.31,1,67.73,16/02/2023,State Meet,3,31,11,67.01,31.94,11,20/06/2022,Entrenador A,10 competencias,Profesional,Obesidad
+Nadador_profesional_16,Australia,170.78,96.17,1,70.08,30/04/2024,Regional Meet,8,35,1,68.23,32.97,16,Sin lesiones,Entrenador C,10 competencias,Profesional,Obesidad
+Nadador_profesional_603,Russia,179.83,82.99,1,71.62,29/05/2023,National Championships,8,35,13,70.9,25.66,15,10/02/2023,Entrenador A,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_820,Brazil,175.63,61.27,1,64.12,07/05/2024,Regional Meet,9,35,5,62.81,19.86,19,20/06/2022,Entrenador D,15 competencias,Profesional,Normal
+Nadador_profesional_253,Japan,172.85,93.24,1,65.1,18/04/2023,State Meet,6,34,11,64.8,31.21,10,10/02/2023,Entrenador C,20 competencias,Profesional,Obesidad
+Nadador_profesional_268,China,179.83,82.51,1,59.53,08/01/2023,National Championships,7,25,10,57.56,25.51,15,15/01/2021,Entrenador C,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_736,Russia,170.31,81.42,1,71.75,04/03/2023,State Meet,8,25,2,70.77,28.07,18,01/11/2020,Entrenador B,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_161,USA,171.87,79.98,1,60.6,13/09/2023,National Championships,6,28,4,59.74,27.08,20,15/01/2021,Entrenador A,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_975,Australia,173.58,76.55,1,68.82,28/05/2024,State Meet,4,29,8,67.23,25.41,19,10/02/2023,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_989,Brazil,168.56,84.08,1,69.42,01/06/2023,Local Meet,2,26,2,69.06,29.59,13,01/11/2020,Entrenador A,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_489,Japan,170.09,66.55,1,65.1,07/12/2022,State Meet,5,34,19,64.07,23,15,15/01/2021,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_117,Japan,178.73,82.29,1,68.57,14/07/2023,Regional Meet,10,30,9,67.19,25.76,19,20/06/2022,Entrenador D,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_549,Japan,179.92,65.27,1,65,08/06/2024,National Championships,4,28,13,63.96,20.16,13,15/01/2021,Entrenador A,10 competencias,Profesional,Normal
+Nadador_profesional_114,Japan,168.69,65.73,1,56.54,18/06/2024,National Championships,1,38,9,55.47,23.1,14,Sin lesiones,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_78,Australia,176.24,85.66,1,63.02,01/09/2024,State Meet,9,40,13,61.14,27.58,11,20/06/2022,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_18,Russia,175.87,65.04,1,62.96,30/07/2023,Regional Meet,7,39,9,62.08,21.03,18,15/01/2021,Entrenador C,15 competencias,Profesional,Normal
+Nadador_profesional_742,Japan,171.56,79.73,1,65.08,05/05/2024,Local Meet,10,38,6,64.8,27.09,15,15/01/2021,Entrenador C,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_262,Brazil,173.88,82.58,1,63.04,02/12/2022,Regional Meet,10,36,13,61.64,27.31,11,20/06/2022,Entrenador D,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_123,Australia,179.54,95.97,1,56.85,21/04/2023,National Championships,10,36,12,55.45,29.77,13,20/06/2022,Entrenador A,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_318,USA,175.17,64.2,1,61.81,10/07/2024,National Championships,3,38,15,61.51,20.92,20,20/06/2022,Entrenador D,25 competencias,Profesional,Normal
+Nadador_profesional_991,Russia,178.09,83.61,1,60.82,10/01/2024,Regional Meet,9,36,7,60.78,26.36,19,20/06/2022,Entrenador D,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_294,Russia,169.93,83.31,1,59.48,27/04/2023,State Meet,1,40,11,57.79,28.85,17,Sin lesiones,Entrenador B,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_790,Australia,174.59,80.24,1,61.98,05/04/2023,Regional Meet,2,39,13,61.86,26.32,20,20/06/2022,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_639,Brazil,170.95,61.2,1,59.03,13/11/2024,State Meet,8,40,14,57.18,20.94,19,10/02/2023,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_173,Japan,170,85.07,1,57.36,21/10/2023,Local Meet,7,36,12,57.33,29.44,13,01/11/2020,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_810,Japan,170.9,83.71,1,63.8,20/05/2023,National Championships,1,36,13,63.72,28.66,14,15/01/2021,Entrenador A,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_612,USA,171.11,84.39,1,60.59,14/09/2024,Local Meet,9,37,15,59.08,28.82,13,20/06/2022,Entrenador C,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_9,Australia,168.96,82.03,1,62.87,06/11/2024,State Meet,4,39,24,62.45,28.73,10,01/11/2020,Entrenador B,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_254,China,175.13,70.7,1,59.94,12/09/2024,State Meet,2,38,9,59.88,23.05,12,10/02/2023,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_171,Russia,173.33,96.44,1,57.45,16/01/2023,National Championships,10,38,21,56.8,32.1,14,10/02/2023,Entrenador D,15 competencias,Profesional,Obesidad
+Nadador_profesional_508,Japan,169.01,80.58,1,61.67,06/04/2024,National Championships,9,39,2,60.48,28.21,15,Sin lesiones,Entrenador D,5 competencias,Profesional,Sobrepeso
+Nadador_profesional_336,Japan,177.15,93.41,1,59,09/03/2024,State Meet,6,37,2,57.63,29.77,10,20/06/2022,Entrenador A,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_954,China,170.33,68.04,1,62.51,26/11/2022,Local Meet,8,37,14,61.66,23.45,12,10/02/2023,Entrenador B,25 competencias,Profesional,Normal
+Nadador_profesional_726,Russia,176.64,67.65,1,58.35,03/05/2023,Regional Meet,10,40,21,56.72,21.68,19,01/11/2020,Entrenador C,10 competencias,Profesional,Normal
+Nadador_profesional_690,Japan,172.07,72.59,1,56.26,17/05/2024,Regional Meet,5,36,4,54.58,24.52,11,15/01/2021,Entrenador C,20 competencias,Profesional,Normal
+Nadador_profesional_253,USA,171.83,87.74,1,61.95,09/03/2023,Regional Meet,1,36,1,60.06,29.72,16,25/05/2019,Entrenador B,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_809,Russia,172.34,77.06,1,60.27,22/06/2024,National Championships,5,39,2,60.18,25.95,10,25/05/2019,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_347,China,176.65,97.36,1,60.28,04/10/2023,State Meet,6,38,21,59.56,31.2,10,15/01/2021,Entrenador C,15 competencias,Profesional,Obesidad
+Nadador_profesional_668,Russia,176.5,62.4,1,66.3,24/11/2022,State Meet,6,36,14,64.58,20.03,15,01/11/2020,Entrenador B,20 competencias,Profesional,Normal
+Nadador_profesional_786,Japan,179.28,71.08,1,60.91,14/04/2023,Regional Meet,5,36,14,59.26,22.11,17,10/02/2023,Entrenador B,5 competencias,Profesional,Normal
+Nadador_profesional_157,Russia,175.18,90.76,1,59.27,21/04/2024,Regional Meet,8,38,23,59.19,29.58,12,01/11/2020,Entrenador D,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_56,Russia,177.51,74.66,1,55.97,27/10/2024,Local Meet,6,40,11,54.75,23.69,19,Sin lesiones,Entrenador B,10 competencias,Profesional,Normal
+Nadador_profesional_686,Brazil,179.37,95.1,1,61.19,20/11/2022,Regional Meet,5,38,2,60.77,29.56,18,25/05/2019,Entrenador C,10 competencias,Profesional,Sobrepeso
+Nadador_profesional_121,Japan,175.85,83.96,1,60.2,02/12/2023,Local Meet,4,36,16,59.53,27.15,12,25/05/2019,Entrenador C,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_471,USA,171.26,99.05,1,56.26,24/10/2023,Regional Meet,8,39,13,56.04,33.77,10,20/06/2022,Entrenador C,10 competencias,Profesional,Obesidad
+Nadador_profesional_547,Japan,171.68,65.28,1,57.22,03/02/2024,Regional Meet,4,40,16,56.63,22.15,15,15/01/2021,Entrenador A,5 competencias,Profesional,Normal
+Nadador_profesional_832,Japan,177.52,90.23,1,56.44,29/10/2023,Regional Meet,6,40,24,55.7,28.63,10,25/05/2019,Entrenador C,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_450,Brazil,177.04,83.92,1,57.09,30/04/2024,Local Meet,3,39,5,55.46,26.77,12,01/11/2020,Entrenador C,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_852,Russia,169.17,79.34,1,66.03,12/02/2024,Local Meet,7,36,13,65.94,27.72,10,Sin lesiones,Entrenador A,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_911,USA,178.96,85.1,1,63,20/10/2023,Local Meet,5,36,2,61.02,26.57,11,15/01/2021,Entrenador D,25 competencias,Profesional,Sobrepeso
+Nadador_profesional_999,Russia,169.14,75.67,1,61.65,21/10/2024,Regional Meet,8,39,11,61.17,26.45,11,15/01/2021,Entrenador D,20 competencias,Profesional,Sobrepeso
+Nadador_profesional_263,Brazil,171.72,96.07,1,59.55,13/11/2023,Regional Meet,6,39,24,57.69,32.58,15,15/01/2021,Entrenador D,25 competencias,Profesional,Obesidad
+Nadador_profesional_733,Brazil,169.49,94.61,1,58.83,04/02/2024,Regional Meet,5,40,22,57.75,32.93,14,01/11/2020,Entrenador A,15 competencias,Profesional,Obesidad
+Nadador_profesional_962,Russia,175.23,93.63,1,60.9,05/12/2023,Local Meet,3,40,2,60.58,30.49,15,15/01/2021,Entrenador C,25 competencias,Profesional,Obesidad
+Nadador_profesional_849,China,172.46,81.21,1,64.26,29/09/2023,State Meet,6,39,1,62.79,27.3,19,20/06/2022,Entrenador A,15 competencias,Profesional,Sobrepeso
+Nadador_profesional_642,USA,177.7,73.95,1,64.23,21/10/2023,Regional Meet,2,39,15,64.01,23.42,20,Sin lesiones,Entrenador B,15 competencias,Profesional,Normal
+Nadador_profesional_797,Australia,172.88,92.45,1,57.23,18/06/2024,Regional Meet,6,39,8,55.98,30.93,20,Sin lesiones,Entrenador C,15 competencias,Profesional,Obesidad
+Nadador_profesional_40,USA,171.78,99.13,1,56.68,16/05/2024,National Championships,3,38,17,54.93,33.59,14,Sin lesiones,Entrenador C,20 competencias,Profesional,Obesidad
+Nadador_profesional_326,Brazil,173.69,68.83,1,61.12,23/07/2023,State Meet,10,36,8,61,22.82,12,15/01/2021,Entrenador D,10 competencias,Profesional,Normal
+Nadador_profesional_951,Brazil,176.12,94.46,1,59.94,17/11/2022,State Meet,6,36,12,58.42,30.45,14,Sin lesiones,Entrenador A,15 competencias,Profesional,Obesidad
+Nadador_profesional_884,Russia,168.97,62.75,1,59.38,13/01/2023,Regional Meet,2,36,8,59.13,21.98,10,Sin lesiones,Entrenador A,25 competencias,Profesional,Normal
+Nadador_profesional_801,Brazil,171.17,93.36,1,59.46,28/10/2024,Local Meet,3,39,2,57.57,31.86,14,10/02/2023,Entrenador C,25 competencias,Profesional,Obesidad
+Nadador_profesional_575,Japan,174.14,75.99,1,65.51,07/11/2023,Regional Meet,8,36,8,64.85,25.06,11,25/05/2019,Entrenador A,20 competencias,Profesional,Sobrepeso
+Nadador_amateur_261,Brazil,191.44,99.63,0,81.93,01/12/2023,State Meet,6,20,2,80.65,27.18,7,01/11/2020,Entrenador D,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_12,USA,184.95,75.8,0,75.07,03/08/2024,National Championships,6,21,2,73.64,22.16,8,Sin lesiones,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_329,Brazil,194.93,72.75,0,76.45,10/03/2023,Regional Meet,9,22,3,75.15,19.15,6,10/02/2023,Entrenador C,10 competencias,Amateur,Normal
+Nadador_amateur_519,USA,180.95,91.79,0,80.1,08/01/2024,State Meet,5,19,2,78.95,28.03,10,25/05/2019,Entrenador C,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_956,USA,189.47,87.67,0,74.62,22/10/2023,Regional Meet,7,21,3,72.72,24.42,5,01/11/2020,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_513,Brazil,181.43,64.49,0,82.63,17/05/2024,Local Meet,4,23,6,80.81,19.59,7,25/05/2019,Entrenador C,25 competencias,Amateur,Normal
+Nadador_amateur_228,Brazil,186.85,85.09,0,81.12,17/06/2023,National Championships,7,23,4,80.46,24.37,9,20/06/2022,Entrenador A,5 competencias,Amateur,Normal
+Nadador_amateur_356,Russia,191.65,99.71,0,72.08,14/06/2023,State Meet,5,19,2,70.63,27.15,9,10/02/2023,Entrenador A,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_725,USA,186.17,98.97,0,79.29,23/11/2022,State Meet,8,23,8,77.3,28.56,5,20/06/2022,Entrenador D,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_53,Japan,182.27,79.34,0,80.6,12/06/2024,State Meet,4,24,6,79.16,23.88,9,10/02/2023,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_116,China,188.82,60.95,0,83.4,23/03/2024,Regional Meet,3,18,1,81.65,17.1,10,01/11/2020,Entrenador C,20 competencias,Amateur,Bajo peso
+Nadador_amateur_486,USA,191.89,84.15,0,81,17/03/2024,State Meet,8,21,2,80.31,22.85,10,Sin lesiones,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_740,Brazil,180.44,97.29,0,73.25,14/09/2023,Local Meet,2,22,3,72.02,29.88,9,25/05/2019,Entrenador D,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_711,USA,183.97,73.7,0,72.75,11/07/2023,Regional Meet,9,20,5,70.84,21.78,10,15/01/2021,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_725,Japan,182.67,67.19,0,83.93,23/06/2024,Regional Meet,7,19,4,82.13,20.14,9,15/01/2021,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_729,Australia,193.86,81.28,0,80.31,29/10/2023,Local Meet,8,24,2,79.87,21.63,6,15/01/2021,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_318,Russia,189.26,74.63,0,71.01,17/04/2023,Local Meet,9,18,3,69.99,20.84,6,Sin lesiones,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_967,USA,192.77,74.43,0,84.4,01/11/2024,Regional Meet,1,21,4,83.4,20.03,6,25/05/2019,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_512,Australia,192.18,70.69,0,80.04,15/12/2022,Regional Meet,2,23,6,78.84,19.14,6,15/01/2021,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_743,Brazil,194.86,75.29,0,83.96,06/11/2024,Local Meet,10,18,3,83.14,19.83,9,01/11/2020,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_595,Brazil,184.37,74.26,0,84.45,05/08/2024,State Meet,9,18,1,82.6,21.85,5,Sin lesiones,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_170,USA,183.88,69.82,0,81.27,27/04/2024,Local Meet,2,19,4,79.83,20.65,10,25/05/2019,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_808,Australia,186.14,62.71,0,79.96,21/09/2023,State Meet,5,21,3,78.71,18.1,7,10/02/2023,Entrenador C,25 competencias,Amateur,Bajo peso
+Nadador_amateur_549,China,184.69,96.09,0,76.53,13/09/2024,Local Meet,8,20,5,75.65,28.17,6,20/06/2022,Entrenador C,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_545,China,192.85,64.04,0,82.47,20/03/2023,National Championships,2,19,2,80.51,17.22,10,15/01/2021,Entrenador B,25 competencias,Amateur,Bajo peso
+Nadador_amateur_898,China,183.14,64.21,0,75.49,31/07/2024,National Championships,6,18,3,74.76,19.14,7,Sin lesiones,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_220,Brazil,180.31,76.81,0,74.25,14/04/2023,National Championships,8,20,4,73.37,23.63,5,01/11/2020,Entrenador D,15 competencias,Amateur,Normal
+Nadador_amateur_637,USA,181.17,68.62,0,80.94,24/07/2023,Regional Meet,8,19,4,79.14,20.91,6,01/11/2020,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_451,Australia,180.76,62.98,0,81.83,18/12/2023,Regional Meet,5,19,1,80.87,19.28,7,01/11/2020,Entrenador D,10 competencias,Amateur,Normal
+Nadador_amateur_772,Australia,190.15,68.21,0,75.04,30/12/2023,National Championships,10,20,3,74.69,18.86,6,20/06/2022,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_314,Japan,192.7,79.93,0,77.79,31/03/2023,National Championships,4,22,7,76.75,21.53,5,01/11/2020,Entrenador D,10 competencias,Amateur,Normal
+Nadador_amateur_564,Brazil,191.71,92.88,0,79.8,24/04/2024,State Meet,4,19,2,79.44,25.27,6,10/02/2023,Entrenador D,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_290,Japan,192.04,63.07,0,79.75,19/02/2024,State Meet,7,18,1,78.85,17.1,8,15/01/2021,Entrenador A,25 competencias,Amateur,Bajo peso
+Nadador_amateur_846,Japan,187.5,87.29,0,78.72,24/09/2023,State Meet,2,20,3,78.21,24.83,8,15/01/2021,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_393,Russia,182.93,75.67,0,79.91,18/06/2024,Local Meet,7,22,6,78.59,22.61,7,10/02/2023,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_689,Brazil,184.63,68.51,0,84.41,28/10/2023,Regional Meet,9,20,3,83.72,20.1,7,10/02/2023,Entrenador D,25 competencias,Amateur,Normal
+Nadador_amateur_86,Australia,181.14,61.02,0,71.43,16/06/2024,State Meet,10,24,3,70.08,18.6,10,Sin lesiones,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_255,Japan,191.53,69.35,0,82.97,21/01/2023,National Championships,10,20,2,81.13,18.9,9,20/06/2022,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_960,Brazil,187.56,91.68,0,76.14,19/12/2022,National Championships,1,21,6,75.92,26.06,5,10/02/2023,Entrenador B,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_295,Russia,180.35,62.54,0,73.33,07/05/2024,Regional Meet,6,20,3,73.29,19.23,8,10/02/2023,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_313,Australia,186.4,71.3,0,75.55,23/07/2024,Local Meet,6,24,4,74.36,20.52,9,Sin lesiones,Entrenador B,10 competencias,Amateur,Normal
+Nadador_amateur_168,Russia,191.44,80.6,0,73.8,26/01/2024,Regional Meet,2,20,5,72.4,21.99,8,20/06/2022,Entrenador D,15 competencias,Amateur,Normal
+Nadador_amateur_597,Japan,193.83,76.91,0,80.8,21/08/2023,Regional Meet,5,22,7,80.26,20.47,10,Sin lesiones,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_994,Japan,184.3,89.16,0,75.75,11/06/2024,Local Meet,9,22,4,75.57,26.25,9,10/02/2023,Entrenador A,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_990,China,194.97,88.97,0,82.86,18/04/2023,State Meet,10,24,5,81.23,23.4,7,25/05/2019,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_279,Russia,189.92,64.17,0,77.89,27/01/2023,National Championships,6,20,3,76.88,17.79,7,10/02/2023,Entrenador D,25 competencias,Amateur,Bajo peso
+Nadador_amateur_723,Brazil,188.22,76.36,0,76.11,06/11/2023,Regional Meet,6,24,8,74.66,21.55,7,15/01/2021,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_313,USA,191.44,86.77,0,80.61,27/04/2024,State Meet,4,23,6,79.42,23.68,5,01/11/2020,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_156,China,193.07,69.95,0,79.26,10/03/2024,National Championships,9,20,3,78.03,18.77,5,Sin lesiones,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_564,Australia,187.29,88.98,0,72.23,09/09/2024,National Championships,9,19,3,71.2,25.37,9,15/01/2021,Entrenador A,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_166,Brazil,184.97,78.21,0,79.03,13/01/2023,Regional Meet,10,32,2,77.23,22.86,7,Sin lesiones,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_403,Russia,184.43,93.21,0,74.42,18/06/2024,State Meet,1,27,12,73.98,27.4,7,25/05/2019,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_503,Brazil,188.66,76.95,0,75.57,17/10/2024,State Meet,2,25,9,75,21.62,7,20/06/2022,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_76,USA,192.72,83.07,0,72.97,07/09/2024,Local Meet,8,31,8,71.42,22.37,8,15/01/2021,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_476,Brazil,188.47,62.2,0,76.62,31/10/2024,State Meet,2,26,3,75.92,17.51,8,01/11/2020,Entrenador C,15 competencias,Amateur,Bajo peso
+Nadador_amateur_384,China,191.68,82.37,0,80.65,28/10/2023,National Championships,6,33,15,79.05,22.42,10,25/05/2019,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_381,Japan,180.31,77.4,0,80.95,29/08/2024,State Meet,1,26,3,79.88,23.81,10,15/01/2021,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_144,China,185.08,77.8,0,79.7,09/01/2023,Regional Meet,9,29,8,78.54,22.71,6,10/02/2023,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_846,China,192.41,68.61,0,71.73,14/02/2023,Regional Meet,8,35,16,69.94,18.53,9,15/01/2021,Entrenador B,20 competencias,Amateur,Normal
+Nadador_amateur_966,USA,189.44,82.56,0,82.59,22/07/2023,State Meet,7,28,3,81.99,23.01,10,01/11/2020,Entrenador D,25 competencias,Amateur,Normal
+Nadador_amateur_376,Brazil,189.44,79.85,0,80.36,03/04/2023,National Championships,4,29,9,78.39,22.25,10,10/02/2023,Entrenador D,15 competencias,Amateur,Normal
+Nadador_amateur_243,Russia,185.98,74.33,0,80.81,24/04/2024,State Meet,2,29,12,80.13,21.49,9,15/01/2021,Entrenador A,5 competencias,Amateur,Normal
+Nadador_amateur_94,Japan,188.91,81.74,0,70.33,08/11/2023,Regional Meet,6,32,3,70.04,22.9,9,25/05/2019,Entrenador A,5 competencias,Amateur,Normal
+Nadador_amateur_292,Japan,191.23,75.23,0,77.66,05/07/2024,National Championships,7,34,16,76.76,20.57,7,01/11/2020,Entrenador D,15 competencias,Amateur,Normal
+Nadador_amateur_157,Australia,186.25,93.35,0,82.07,21/05/2023,National Championships,1,30,13,80.26,26.91,6,25/05/2019,Entrenador D,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_440,Russia,180.04,94.75,0,79.54,29/02/2024,State Meet,9,26,5,78.35,29.23,5,Sin lesiones,Entrenador D,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_618,Russia,193.9,67.92,0,80.55,19/10/2024,National Championships,5,28,10,80.05,18.07,6,10/02/2023,Entrenador C,25 competencias,Amateur,Bajo peso
+Nadador_amateur_135,Japan,191.01,69.43,0,79.12,03/10/2023,Regional Meet,3,30,4,78.52,19.03,6,15/01/2021,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_783,Australia,189.48,86.09,0,76.77,21/12/2022,State Meet,5,34,10,76.64,23.98,7,Sin lesiones,Entrenador D,10 competencias,Amateur,Normal
+Nadador_amateur_670,China,188.07,92.9,0,73.59,02/06/2023,Regional Meet,5,29,11,71.6,26.26,9,01/11/2020,Entrenador B,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_206,Brazil,194.66,92.97,0,82.96,10/07/2024,State Meet,1,34,3,82.38,24.54,6,15/01/2021,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_322,Russia,182.09,61.7,0,75.53,10/05/2024,Local Meet,2,32,12,75.16,18.61,5,15/01/2021,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_133,Brazil,194.23,64.6,0,81.47,08/11/2024,National Championships,10,25,4,80.26,17.12,9,01/11/2020,Entrenador D,5 competencias,Amateur,Bajo peso
+Nadador_amateur_913,Russia,192.41,63.25,0,82.4,30/05/2024,Local Meet,3,27,1,81.69,17.08,8,10/02/2023,Entrenador B,5 competencias,Amateur,Bajo peso
+Nadador_amateur_736,USA,183.99,93.91,0,78.83,05/02/2023,Regional Meet,6,25,4,77.59,27.74,6,Sin lesiones,Entrenador D,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_27,USA,191.71,99.5,0,72.75,30/03/2024,Local Meet,2,32,1,71.62,27.07,9,10/02/2023,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_274,Japan,194.49,74.12,0,76.89,20/11/2022,Regional Meet,8,30,3,75.73,19.59,9,25/05/2019,Entrenador D,25 competencias,Amateur,Normal
+Nadador_amateur_242,Russia,180.19,92.36,0,74.71,11/07/2023,Regional Meet,6,26,4,73.02,28.45,6,25/05/2019,Entrenador A,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_258,Australia,188.8,85.22,0,82.41,28/03/2024,State Meet,4,28,5,81.9,23.91,8,Sin lesiones,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_951,Japan,185.24,63.29,0,76.01,30/08/2023,Local Meet,10,30,8,75.96,18.44,8,01/11/2020,Entrenador C,10 competencias,Amateur,Bajo peso
+Nadador_amateur_332,China,188.91,66.94,0,80.65,04/08/2024,Regional Meet,10,25,5,79,18.76,6,10/02/2023,Entrenador C,10 competencias,Amateur,Normal
+Nadador_amateur_713,USA,181.23,77.53,0,79.03,03/05/2024,Regional Meet,10,29,5,78.48,23.61,5,01/11/2020,Entrenador C,10 competencias,Amateur,Normal
+Nadador_amateur_289,USA,180.55,68.52,0,70.9,24/07/2024,Local Meet,1,25,7,70.88,21.02,5,Sin lesiones,Entrenador D,25 competencias,Amateur,Normal
+Nadador_amateur_342,China,187.33,69.11,0,71.48,13/11/2024,Local Meet,5,32,16,71.04,19.69,10,20/06/2022,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_417,Brazil,194.55,69.72,0,82.37,23/02/2024,Regional Meet,3,35,5,82.35,18.42,10,20/06/2022,Entrenador C,15 competencias,Amateur,Bajo peso
+Nadador_amateur_164,Brazil,186.22,73.08,0,73.86,24/07/2023,Regional Meet,8,26,3,73.8,21.07,8,01/11/2020,Entrenador D,25 competencias,Amateur,Normal
+Nadador_amateur_584,USA,186.33,67.14,0,72.33,19/05/2023,Regional Meet,7,28,6,72.02,19.34,9,15/01/2021,Entrenador D,25 competencias,Amateur,Normal
+Nadador_amateur_334,Australia,191.24,83.4,0,74.14,10/09/2024,Local Meet,10,35,18,73.05,22.8,6,01/11/2020,Entrenador C,25 competencias,Amateur,Normal
+Nadador_amateur_826,Russia,181.8,64.77,0,78.76,28/07/2024,National Championships,2,30,14,77.47,19.6,7,15/01/2021,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_838,Australia,182.02,99.51,0,74.85,26/05/2024,National Championships,6,33,14,74.35,30.04,6,Sin lesiones,Entrenador A,25 competencias,Amateur,Obesidad
+Nadador_amateur_622,Brazil,185.66,63.89,0,77.83,01/11/2023,State Meet,4,32,17,76.18,18.54,6,01/11/2020,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_667,Russia,183.88,81.33,0,72.79,20/12/2022,National Championships,1,31,4,72.54,24.05,5,15/01/2021,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_524,USA,186.8,77.35,0,77.11,19/06/2023,State Meet,9,27,5,75.34,22.17,5,Sin lesiones,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_86,China,193.21,73.17,0,70.54,07/03/2023,State Meet,2,28,6,70.22,19.6,7,15/01/2021,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_42,USA,192.19,76.61,0,81.67,11/01/2024,State Meet,9,25,8,80.03,20.74,10,20/06/2022,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_196,Australia,182.49,86.69,0,77.4,25/03/2024,Regional Meet,2,25,1,75.99,26.03,9,15/01/2021,Entrenador C,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_368,Russia,184.97,73.5,0,75,19/01/2024,State Meet,4,27,8,74.93,21.48,10,20/06/2022,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_475,USA,184.06,72.01,0,77.02,31/07/2023,State Meet,5,34,3,76.67,21.26,9,25/05/2019,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_709,Brazil,185.2,89.45,0,80.13,23/01/2023,State Meet,1,34,17,79.19,26.08,9,20/06/2022,Entrenador D,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_127,Japan,187.04,85.53,0,70.48,30/04/2024,Regional Meet,3,35,7,69.19,24.45,8,10/02/2023,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_537,USA,183.51,77.82,0,79.02,11/07/2023,National Championships,8,36,21,77.26,23.11,6,01/11/2020,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_573,Japan,186.43,65.66,0,76.61,02/02/2024,State Meet,7,38,5,75.94,18.89,7,25/05/2019,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_429,Japan,193.81,90.77,0,72.97,25/12/2023,Regional Meet,10,36,6,71.57,24.17,8,15/01/2021,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_732,Australia,187.44,85.9,0,80.18,20/09/2024,Local Meet,7,40,5,78.52,24.45,9,20/06/2022,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_510,Russia,183.95,78.88,0,82.49,12/07/2024,National Championships,5,38,6,81.95,23.31,7,Sin lesiones,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_185,China,190.92,66.09,0,77.17,22/11/2022,State Meet,9,40,24,75.35,18.13,5,Sin lesiones,Entrenador D,25 competencias,Amateur,Bajo peso
+Nadador_amateur_313,China,194.17,64.37,0,80.17,30/03/2024,Regional Meet,10,36,3,79.23,17.07,9,25/05/2019,Entrenador B,5 competencias,Amateur,Bajo peso
+Nadador_amateur_123,Japan,188.38,69.72,0,80.84,07/05/2023,State Meet,6,39,21,80.84,19.65,9,20/06/2022,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_201,China,189.01,71.55,0,80.86,10/06/2024,State Meet,8,39,1,78.91,20.03,7,25/05/2019,Entrenador A,5 competencias,Amateur,Normal
+Nadador_amateur_89,Japan,183.33,82.89,0,75.7,17/02/2023,Local Meet,6,38,11,73.98,24.66,7,15/01/2021,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_910,Russia,182.16,98.66,0,77.26,30/09/2023,National Championships,7,37,14,76.77,29.73,10,Sin lesiones,Entrenador C,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_274,Australia,191.72,92.65,0,73.94,30/07/2023,National Championships,9,37,8,72.19,25.21,6,01/11/2020,Entrenador D,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_485,China,192.59,67.58,0,80.07,24/05/2024,State Meet,2,40,6,78.25,18.22,6,15/01/2021,Entrenador B,25 competencias,Amateur,Bajo peso
+Nadador_amateur_725,Brazil,194.05,61.92,0,73.1,17/08/2023,State Meet,6,40,23,72.62,16.44,8,01/11/2020,Entrenador A,15 competencias,Amateur,Bajo peso
+Nadador_amateur_435,USA,185.55,79.96,0,77.21,24/11/2022,National Championships,7,37,13,76.63,23.22,7,01/11/2020,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_79,USA,190.66,80.55,0,72.32,27/03/2024,Local Meet,8,39,14,70.78,22.16,5,01/11/2020,Entrenador C,25 competencias,Amateur,Normal
+Nadador_amateur_85,Brazil,182.59,99.27,0,82.3,31/01/2024,State Meet,4,36,21,81.75,29.78,6,20/06/2022,Entrenador D,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_413,Brazil,184.36,72.95,0,72.36,19/09/2023,Local Meet,3,38,2,70.6,21.46,9,20/06/2022,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_576,China,184.63,98.01,0,77.71,25/09/2024,National Championships,1,36,2,77.3,28.75,7,01/11/2020,Entrenador A,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_94,Japan,186.76,85.19,0,79.18,07/01/2024,State Meet,6,39,12,77.51,24.42,9,10/02/2023,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_581,Russia,194.26,95.04,0,73.99,13/08/2024,State Meet,2,40,8,73.31,25.18,9,10/02/2023,Entrenador B,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_418,Russia,181.07,82.21,0,77.76,22/07/2024,Local Meet,6,40,2,76.74,25.07,6,15/01/2021,Entrenador A,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_654,Australia,193.2,85.72,0,80.6,18/10/2023,National Championships,2,38,23,79.6,22.97,8,10/02/2023,Entrenador C,25 competencias,Amateur,Normal
+Nadador_amateur_778,Brazil,181.4,64.48,0,75.56,08/04/2023,Local Meet,7,37,9,74.53,19.6,6,Sin lesiones,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_599,Australia,191.71,76.98,0,75.12,13/10/2023,National Championships,6,37,11,74.51,20.95,9,25/05/2019,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_636,USA,186.62,84.93,0,78.53,31/01/2023,State Meet,9,36,15,78.22,24.39,8,Sin lesiones,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_558,China,184.52,60.39,0,80.57,25/03/2023,Regional Meet,6,37,22,80.15,17.74,9,15/01/2021,Entrenador D,20 competencias,Amateur,Bajo peso
+Nadador_amateur_526,Japan,181.51,85.55,0,74.83,08/03/2024,Local Meet,9,37,10,74.12,25.97,6,25/05/2019,Entrenador A,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_501,USA,191.81,77.94,0,80.79,03/10/2024,Regional Meet,8,36,5,79.3,21.18,6,20/06/2022,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_694,USA,180.37,76.32,0,79.8,05/02/2024,Local Meet,8,40,4,79.18,23.46,10,15/01/2021,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_970,USA,183.7,68.86,0,79.88,21/05/2024,State Meet,3,40,20,79.75,20.41,7,25/05/2019,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_939,USA,191.95,93.15,0,77.2,19/01/2024,State Meet,8,39,9,75.29,25.28,5,10/02/2023,Entrenador C,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_641,Australia,188.71,90.11,0,75.54,30/03/2024,State Meet,9,38,20,74.88,25.3,7,25/05/2019,Entrenador C,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_884,Russia,184.68,90.13,0,71.72,09/03/2024,State Meet,2,37,10,71.27,26.43,7,01/11/2020,Entrenador C,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_177,USA,181.45,73.85,0,81.24,26/06/2023,State Meet,8,38,11,79.77,22.43,6,15/01/2021,Entrenador B,10 competencias,Amateur,Normal
+Nadador_amateur_650,Brazil,185.57,62.33,0,78.05,03/02/2023,National Championships,6,37,15,77.41,18.1,8,20/06/2022,Entrenador B,20 competencias,Amateur,Bajo peso
+Nadador_amateur_507,Russia,194.19,62.12,0,80.09,04/10/2024,State Meet,3,40,25,78.43,16.47,5,15/01/2021,Entrenador A,20 competencias,Amateur,Bajo peso
+Nadador_amateur_227,Australia,188.42,81.99,0,78.79,11/01/2023,Regional Meet,10,40,17,76.8,23.09,10,20/06/2022,Entrenador A,5 competencias,Amateur,Normal
+Nadador_amateur_501,Brazil,192.05,91.84,0,71.02,29/01/2024,Local Meet,8,36,2,69.99,24.9,5,20/06/2022,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_237,Brazil,191.2,66.13,0,79.32,01/07/2024,National Championships,6,38,1,77.51,18.09,9,01/11/2020,Entrenador C,20 competencias,Amateur,Bajo peso
+Nadador_amateur_896,Japan,180.34,99.1,0,75.32,31/03/2024,National Championships,7,39,1,73.93,30.47,7,10/02/2023,Entrenador C,5 competencias,Amateur,Obesidad
+Nadador_amateur_165,Russia,191.62,94.28,0,81.96,28/07/2024,Regional Meet,2,40,12,80.55,25.68,10,01/11/2020,Entrenador C,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_781,USA,191.64,92.88,0,81.9,11/04/2023,State Meet,9,37,21,81.68,25.29,7,25/05/2019,Entrenador A,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_93,Japan,192.17,70.95,0,78.21,05/09/2024,State Meet,7,36,8,76.38,19.21,8,25/05/2019,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_498,Brazil,183.49,73.47,0,81.24,15/03/2023,Regional Meet,10,37,20,80.06,21.82,7,10/02/2023,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_105,USA,186.86,62.53,0,75.23,02/01/2024,Regional Meet,7,39,10,74.68,17.91,8,25/05/2019,Entrenador D,25 competencias,Amateur,Bajo peso
+Nadador_amateur_378,Japan,191.14,98.02,0,73.15,11/07/2023,Regional Meet,2,37,19,72.99,26.83,9,20/06/2022,Entrenador C,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_671,Japan,185.64,81.33,0,77.01,29/09/2024,National Championships,10,39,9,76.97,23.6,6,01/11/2020,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_167,USA,185.8,88.79,0,76.27,23/06/2024,Local Meet,2,38,21,75.84,25.72,7,20/06/2022,Entrenador D,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_792,Japan,185.1,66.68,0,73.09,28/08/2024,Regional Meet,10,40,24,73,19.46,6,20/06/2022,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_93,Russia,168.7,61.75,1,83.7,27/12/2022,Local Meet,2,23,8,83.11,21.7,8,Sin lesiones,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_239,Russia,175.54,98.69,1,75.95,31/08/2024,State Meet,6,20,3,74.89,32.03,10,20/06/2022,Entrenador D,25 competencias,Amateur,Obesidad
+Nadador_amateur_778,Russia,178,76.35,1,76.73,18/06/2024,Local Meet,7,24,5,76.43,24.1,8,15/01/2021,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_692,Japan,175.05,94.76,1,81.71,28/07/2023,Regional Meet,10,21,5,80.59,30.92,10,15/01/2021,Entrenador A,20 competencias,Amateur,Obesidad
+Nadador_amateur_14,Japan,179.61,78.93,1,76.31,11/10/2024,Local Meet,9,21,6,76.11,24.47,7,10/02/2023,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_945,Brazil,175.43,91.7,1,78.7,30/05/2024,Local Meet,9,20,3,77.19,29.8,6,15/01/2021,Entrenador D,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_740,Russia,179.13,62.09,1,81.29,06/02/2024,National Championships,2,24,9,80.09,19.35,6,Sin lesiones,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_414,Russia,177.37,93.23,1,73.38,18/08/2023,National Championships,6,21,4,73.14,29.63,9,15/01/2021,Entrenador C,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_558,Russia,172.23,66.95,1,81.66,13/02/2023,State Meet,1,21,2,79.99,22.57,7,25/05/2019,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_531,Japan,172.12,99.95,1,77.52,03/09/2023,National Championships,10,24,4,77.1,33.74,7,01/11/2020,Entrenador D,5 competencias,Amateur,Obesidad
+Nadador_amateur_927,USA,170.78,78.43,1,79.11,02/12/2023,Local Meet,8,20,4,78.59,26.89,6,10/02/2023,Entrenador B,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_190,Brazil,171.76,80.16,1,75.02,05/06/2024,National Championships,9,18,2,74.45,27.17,10,25/05/2019,Entrenador C,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_431,China,174.42,75.3,1,76.19,27/10/2024,State Meet,10,23,8,74.46,24.75,6,Sin lesiones,Entrenador C,25 competencias,Amateur,Normal
+Nadador_amateur_221,China,176.15,70.36,1,75.34,17/03/2023,State Meet,2,23,8,73.41,22.68,7,01/11/2020,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_662,Australia,174.15,68.13,1,82.03,15/05/2024,Local Meet,10,20,1,80.69,22.46,9,01/11/2020,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_759,China,169.73,97.28,1,80.75,16/11/2022,National Championships,2,23,7,79.62,33.77,6,Sin lesiones,Entrenador D,20 competencias,Amateur,Obesidad
+Nadador_amateur_815,Brazil,170.03,66.19,1,75.37,26/05/2023,Regional Meet,2,22,3,73.67,22.9,7,20/06/2022,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_944,Australia,171.72,84.5,1,81.89,26/08/2023,State Meet,2,23,7,81.49,28.66,9,01/11/2020,Entrenador A,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_660,China,173.14,95.4,1,84.47,05/04/2024,Regional Meet,2,18,1,83.45,31.82,8,Sin lesiones,Entrenador C,15 competencias,Amateur,Obesidad
+Nadador_amateur_694,Brazil,174.84,98.66,1,84.35,20/01/2023,Local Meet,2,20,3,83.53,32.27,9,10/02/2023,Entrenador C,5 competencias,Amateur,Obesidad
+Nadador_amateur_105,Japan,174.31,73.86,1,85.04,27/02/2023,National Championships,1,21,3,83.8,24.31,8,20/06/2022,Entrenador C,10 competencias,Amateur,Normal
+Nadador_amateur_980,China,170.24,80.06,1,81.47,09/10/2023,Regional Meet,8,21,5,80.96,27.62,9,15/01/2021,Entrenador C,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_714,Japan,171.99,70.1,1,84.57,25/05/2023,National Championships,8,19,4,83.01,23.7,10,Sin lesiones,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_343,Russia,169.45,67.33,1,73.07,03/06/2023,Local Meet,4,22,5,72.38,23.45,8,10/02/2023,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_826,Australia,173.42,72.62,1,76.93,30/01/2024,Local Meet,5,19,2,76.84,24.15,9,15/01/2021,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_835,Australia,179.02,72.68,1,75.86,12/09/2023,Local Meet,5,21,3,75.54,22.68,7,25/05/2019,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_533,Australia,170.42,76.56,1,82.41,19/03/2024,National Championships,7,18,3,80.94,26.36,10,01/11/2020,Entrenador C,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_38,USA,169.09,62.53,1,78.42,19/08/2023,State Meet,9,23,5,77.67,21.87,9,Sin lesiones,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_64,Australia,168.99,97.82,1,84.49,18/06/2024,Regional Meet,2,20,5,84.08,34.25,5,15/01/2021,Entrenador C,5 competencias,Amateur,Obesidad
+Nadador_amateur_634,Australia,171.77,77.27,1,74.54,02/06/2023,National Championships,5,24,9,73.73,26.19,5,20/06/2022,Entrenador B,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_384,Australia,175.64,80.55,1,79.01,08/11/2023,Local Meet,1,19,1,77.36,26.11,6,25/05/2019,Entrenador D,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_500,USA,169.99,95.12,1,82.76,24/08/2023,Regional Meet,7,22,6,80.81,32.92,9,01/11/2020,Entrenador A,15 competencias,Amateur,Obesidad
+Nadador_amateur_900,USA,178.17,63.79,1,73,18/07/2023,Regional Meet,4,20,4,72.61,20.09,6,25/05/2019,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_426,China,177.78,94.27,1,77.42,25/02/2024,State Meet,5,19,1,76.05,29.83,7,20/06/2022,Entrenador A,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_32,Brazil,173.56,77.75,1,83.85,16/02/2024,National Championships,2,19,1,83.05,25.81,8,Sin lesiones,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_595,Brazil,168.18,95.26,1,83.87,29/09/2023,Local Meet,4,23,6,82.99,33.68,5,10/02/2023,Entrenador D,15 competencias,Amateur,Obesidad
+Nadador_amateur_53,Brazil,170.01,61.44,1,79.11,22/03/2024,State Meet,5,19,2,77.61,21.26,7,20/06/2022,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_842,China,179.45,75.74,1,83.18,09/06/2024,Regional Meet,8,22,6,82.82,23.52,9,01/11/2020,Entrenador C,10 competencias,Amateur,Normal
+Nadador_amateur_4,Brazil,175.95,77.63,1,79.08,23/06/2023,National Championships,8,21,5,77.31,25.08,6,15/01/2021,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_246,Australia,177.99,72.2,1,79.77,23/02/2023,State Meet,7,18,2,79.02,22.79,7,Sin lesiones,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_421,China,174.72,98.27,1,82.59,30/03/2024,Regional Meet,10,24,8,81.14,32.19,5,15/01/2021,Entrenador A,20 competencias,Amateur,Obesidad
+Nadador_amateur_699,Brazil,175.83,83.89,1,73.15,12/01/2023,Regional Meet,7,20,1,72.05,27.13,6,01/11/2020,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_411,Japan,179.43,92.85,1,73.61,18/06/2024,National Championships,2,24,3,71.85,28.84,9,15/01/2021,Entrenador B,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_213,Brazil,174.54,61.12,1,73.7,05/04/2024,State Meet,8,23,4,71.98,20.06,8,Sin lesiones,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_155,Australia,173.11,77.68,1,81,01/11/2024,State Meet,10,20,4,80.62,25.92,5,15/01/2021,Entrenador D,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_467,Russia,174.53,74.69,1,76.77,13/03/2024,Local Meet,8,20,2,75.11,24.52,7,10/02/2023,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_473,Brazil,171.2,77.71,1,74.58,20/10/2024,National Championships,5,18,3,73.56,26.51,8,15/01/2021,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_803,Australia,172.32,80.74,1,76.16,06/06/2024,National Championships,1,24,2,75.54,27.19,7,10/02/2023,Entrenador D,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_477,Japan,169.56,74.47,1,83.05,12/01/2024,Local Meet,5,19,2,81.21,25.9,10,Sin lesiones,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_487,USA,170.18,70.48,1,76.42,26/04/2024,Regional Meet,7,20,3,75.16,24.34,9,20/06/2022,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_91,Japan,168.08,67.48,1,81.35,18/04/2024,State Meet,10,33,5,80.15,23.89,9,01/11/2020,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_519,Russia,168.84,64.78,1,85.74,20/04/2023,Local Meet,6,28,5,84.31,22.72,5,20/06/2022,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_982,Brazil,168.7,91.89,1,77.83,20/12/2022,State Meet,10,25,3,76.97,32.29,10,20/06/2022,Entrenador A,5 competencias,Amateur,Obesidad
+Nadador_amateur_137,Russia,170.18,69.51,1,90.35,24/02/2023,State Meet,5,33,18,88.92,24,7,25/05/2019,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_349,USA,171.66,93.2,1,84.79,20/12/2022,National Championships,3,34,1,84.01,31.63,6,10/02/2023,Entrenador D,15 competencias,Amateur,Obesidad
+Nadador_amateur_814,China,177.47,92.78,1,84.94,15/06/2024,National Championships,5,33,14,84.63,29.46,7,10/02/2023,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_492,Brazil,172.43,60.52,1,75.91,04/10/2024,National Championships,1,26,7,75.41,20.36,5,10/02/2023,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_709,Russia,168.77,87.11,1,79.44,16/04/2023,National Championships,7,34,9,78.97,30.58,6,10/02/2023,Entrenador C,25 competencias,Amateur,Obesidad
+Nadador_amateur_51,Brazil,169.39,71.56,1,88.07,14/11/2023,National Championships,10,35,10,88.03,24.94,6,15/01/2021,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_317,Japan,170.66,82.97,1,78.22,26/02/2024,State Meet,8,32,17,78.18,28.49,6,01/11/2020,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_142,China,177.12,83.35,1,71.95,30/10/2024,Local Meet,3,30,11,69.98,26.57,8,01/11/2020,Entrenador A,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_178,Russia,173.19,86.13,1,83.81,31/08/2023,Local Meet,6,35,4,82.78,28.72,10,25/05/2019,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_693,China,175.71,81.44,1,82.56,14/01/2024,Local Meet,9,29,8,80.86,26.38,6,Sin lesiones,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_306,Russia,178.55,84.44,1,89.57,19/11/2022,Regional Meet,7,30,7,88.27,26.49,6,15/01/2021,Entrenador A,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_891,Brazil,174.18,86.57,1,71.21,25/12/2023,National Championships,8,35,16,69.61,28.53,7,10/02/2023,Entrenador A,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_375,China,173.31,87.94,1,73.98,16/04/2024,Local Meet,7,29,10,73.79,29.28,6,25/05/2019,Entrenador D,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_413,Brazil,177.94,61.23,1,72.87,02/08/2023,National Championships,7,31,2,72.67,19.34,7,25/05/2019,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_68,Japan,172.91,62.08,1,83.75,04/05/2023,National Championships,6,34,3,83.07,20.76,5,15/01/2021,Entrenador B,25 competencias,Amateur,Normal
+Nadador_amateur_240,China,175.98,71.09,1,89.31,28/01/2023,National Championships,3,31,7,88.31,22.96,5,25/05/2019,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_404,Russia,170.66,98.39,1,83.93,08/10/2023,National Championships,4,32,9,82.25,33.78,7,Sin lesiones,Entrenador A,25 competencias,Amateur,Obesidad
+Nadador_amateur_590,Japan,173.98,93.31,1,89.09,12/06/2023,Regional Meet,4,27,7,87.36,30.83,10,Sin lesiones,Entrenador B,25 competencias,Amateur,Obesidad
+Nadador_amateur_848,Australia,171.55,96.35,1,77.97,07/08/2023,Regional Meet,3,33,7,77.12,32.74,9,Sin lesiones,Entrenador D,25 competencias,Amateur,Obesidad
+Nadador_amateur_146,Japan,178.55,82.79,1,78.69,04/12/2022,Regional Meet,1,29,6,78.62,25.97,9,15/01/2021,Entrenador B,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_597,Japan,175.13,63.39,1,75.13,09/06/2023,Regional Meet,10,33,5,74.14,20.67,6,25/05/2019,Entrenador B,10 competencias,Amateur,Normal
+Nadador_amateur_108,Russia,173.89,79.35,1,85.53,25/05/2024,Local Meet,4,26,10,83.96,26.24,8,01/11/2020,Entrenador B,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_322,Brazil,179.53,90.83,1,77.8,22/09/2023,Regional Meet,10,27,4,77.38,28.18,6,20/06/2022,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_53,Russia,173.57,70.91,1,82.03,07/02/2023,Regional Meet,8,32,1,81.56,23.54,6,15/01/2021,Entrenador B,5 competencias,Amateur,Normal
+Nadador_amateur_52,Australia,177.11,95.19,1,88.84,14/02/2024,National Championships,3,31,16,87.77,30.35,9,25/05/2019,Entrenador A,10 competencias,Amateur,Obesidad
+Nadador_amateur_908,Australia,174.71,86.35,1,71.99,19/03/2024,Regional Meet,7,35,5,71.57,28.29,8,20/06/2022,Entrenador D,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_345,Australia,168.02,89.34,1,89.08,10/11/2024,State Meet,7,27,2,87.2,31.65,9,Sin lesiones,Entrenador A,5 competencias,Amateur,Obesidad
+Nadador_amateur_657,China,174.42,76.56,1,80.59,12/05/2024,State Meet,9,27,6,78.69,25.17,10,20/06/2022,Entrenador C,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_936,Brazil,169.21,88.99,1,85.65,25/05/2024,Local Meet,3,33,12,84.16,31.08,7,25/05/2019,Entrenador C,10 competencias,Amateur,Obesidad
+Nadador_amateur_680,Australia,170.27,78.9,1,80.82,11/04/2024,State Meet,6,29,10,80.39,27.21,9,Sin lesiones,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_77,China,174.49,91.18,1,76.73,27/10/2023,Local Meet,1,26,7,76.72,29.95,10,10/02/2023,Entrenador B,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_8,Russia,177.8,84.53,1,73.77,05/01/2024,Regional Meet,7,30,10,73.67,26.74,10,10/02/2023,Entrenador C,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_299,USA,179.01,90.88,1,89.97,22/05/2024,State Meet,9,25,6,89.82,28.36,10,25/05/2019,Entrenador A,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_660,Brazil,179.36,79.37,1,71.51,19/07/2023,Regional Meet,6,29,2,70.14,24.67,8,20/06/2022,Entrenador D,15 competencias,Amateur,Normal
+Nadador_amateur_164,Australia,174.24,85.33,1,73.4,02/02/2023,National Championships,10,35,15,73.23,28.11,7,01/11/2020,Entrenador D,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_323,Russia,170.57,79.59,1,79.58,07/08/2023,Local Meet,2,29,3,78.05,27.36,9,Sin lesiones,Entrenador C,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_615,Australia,176.02,74.69,1,81.24,01/06/2024,Local Meet,2,31,16,79.82,24.11,10,20/06/2022,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_908,USA,176.85,68.57,1,84.55,28/09/2024,Regional Meet,5,27,9,83.29,21.92,5,15/01/2021,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_521,Australia,176.84,70.55,1,71.3,09/07/2024,State Meet,5,26,4,70.21,22.56,9,01/11/2020,Entrenador C,25 competencias,Amateur,Normal
+Nadador_amateur_549,Japan,171.71,60.05,1,78.54,22/06/2023,State Meet,3,27,11,76.59,20.37,8,15/01/2021,Entrenador D,5 competencias,Amateur,Normal
+Nadador_amateur_234,USA,169.02,81.92,1,73.99,24/10/2024,Regional Meet,8,34,17,72.89,28.68,7,10/02/2023,Entrenador C,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_489,Brazil,172.04,78.57,1,74.06,02/10/2024,National Championships,2,29,6,73.02,26.55,7,15/01/2021,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_852,China,174.8,68.46,1,85.8,04/05/2023,Local Meet,8,29,13,85.45,22.41,6,15/01/2021,Entrenador D,10 competencias,Amateur,Normal
+Nadador_amateur_793,Russia,168.72,96.99,1,74.02,24/08/2023,Local Meet,7,25,5,73,34.07,8,10/02/2023,Entrenador A,5 competencias,Amateur,Obesidad
+Nadador_amateur_891,Brazil,170.29,90.13,1,78.2,14/10/2024,Local Meet,10,35,8,76.47,31.08,9,25/05/2019,Entrenador A,20 competencias,Amateur,Obesidad
+Nadador_amateur_375,Japan,169.91,94.58,1,74.64,24/04/2024,State Meet,3,27,8,73.7,32.76,7,10/02/2023,Entrenador B,25 competencias,Amateur,Obesidad
+Nadador_amateur_258,USA,170.17,68.65,1,86.7,14/07/2024,Local Meet,5,29,13,85.13,23.71,7,25/05/2019,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_199,USA,172.89,63.96,1,70.4,31/12/2022,State Meet,7,39,7,68.72,21.4,7,25/05/2019,Entrenador B,20 competencias,Amateur,Normal
+Nadador_amateur_909,USA,178.97,94.34,1,75.85,10/06/2023,National Championships,9,36,14,74.64,29.45,9,15/01/2021,Entrenador C,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_894,Japan,179.19,84.08,1,72.26,15/04/2024,National Championships,2,40,4,70.76,26.19,5,01/11/2020,Entrenador C,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_136,Russia,173.02,76.62,1,78.29,24/08/2024,Local Meet,4,39,14,76.87,25.59,8,25/05/2019,Entrenador D,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_241,Australia,177.85,91.84,1,82.15,17/10/2024,National Championships,7,40,6,81.28,29.04,5,Sin lesiones,Entrenador D,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_529,China,171.12,87.89,1,80.03,27/02/2024,National Championships,9,36,12,78.95,30.01,9,10/02/2023,Entrenador C,10 competencias,Amateur,Obesidad
+Nadador_amateur_822,Brazil,175.17,69.74,1,82.47,17/04/2023,Local Meet,2,37,5,80.97,22.73,6,01/11/2020,Entrenador D,15 competencias,Amateur,Normal
+Nadador_amateur_807,Australia,178.73,94.37,1,71.9,24/06/2024,National Championships,5,36,19,70.9,29.54,7,Sin lesiones,Entrenador B,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_128,Japan,169.41,68.39,1,82.12,30/01/2023,State Meet,6,38,14,81.96,23.83,5,Sin lesiones,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_592,USA,174.14,91.14,1,74.25,07/08/2024,Regional Meet,4,38,13,72.83,30.05,9,15/01/2021,Entrenador A,15 competencias,Amateur,Obesidad
+Nadador_amateur_927,Brazil,175.53,90.22,1,73.07,07/10/2024,State Meet,8,39,24,72.03,29.28,10,20/06/2022,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_462,Brazil,175.68,78.38,1,71.4,11/02/2023,Local Meet,5,36,4,70.08,25.4,9,25/05/2019,Entrenador C,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_408,Russia,176.33,73.16,1,74.31,08/08/2023,National Championships,3,37,2,72.92,23.53,8,25/05/2019,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_721,USA,168.03,90.54,1,75.04,26/05/2023,State Meet,8,40,5,73.23,32.07,8,25/05/2019,Entrenador B,10 competencias,Amateur,Obesidad
+Nadador_amateur_283,USA,170.37,81.72,1,76.78,23/04/2023,Regional Meet,5,38,2,75.67,28.15,10,20/06/2022,Entrenador D,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_377,Brazil,178.73,98.03,1,82.61,14/03/2024,Regional Meet,1,38,12,81.23,30.69,10,20/06/2022,Entrenador C,25 competencias,Amateur,Obesidad
+Nadador_amateur_771,USA,179.05,72.66,1,74.52,13/03/2023,Local Meet,2,38,22,74.38,22.66,9,10/02/2023,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_45,Japan,172.3,80.82,1,71.12,20/07/2024,National Championships,4,38,22,70.09,27.22,8,15/01/2021,Entrenador A,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_634,Russia,176.4,78.88,1,70.88,06/05/2024,Regional Meet,5,38,4,70.07,25.35,10,Sin lesiones,Entrenador C,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_83,Brazil,170.17,65.9,1,75.58,15/03/2024,Regional Meet,1,38,11,74.05,22.76,5,25/05/2019,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_200,Australia,175.35,90.63,1,73.56,30/11/2022,State Meet,3,39,17,71.59,29.48,5,15/01/2021,Entrenador B,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_9,Brazil,176.22,96.68,1,80.08,21/05/2024,National Championships,1,37,19,79.99,31.13,9,25/05/2019,Entrenador B,15 competencias,Amateur,Obesidad
+Nadador_amateur_587,Russia,176.4,73.73,1,78.35,06/11/2023,National Championships,8,36,15,77.06,23.69,8,20/06/2022,Entrenador C,15 competencias,Amateur,Normal
+Nadador_amateur_813,USA,176.28,68.35,1,75.92,26/02/2023,Regional Meet,2,38,17,74.03,22,10,25/05/2019,Entrenador C,5 competencias,Amateur,Normal
+Nadador_amateur_700,China,176.52,87.04,1,79.55,07/05/2023,Local Meet,6,38,8,79.01,27.93,6,01/11/2020,Entrenador D,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_548,Australia,175.48,74.43,1,77.77,23/04/2023,National Championships,10,39,10,76.52,24.17,6,10/02/2023,Entrenador A,10 competencias,Amateur,Normal
+Nadador_amateur_950,Australia,177.55,92.78,1,83.11,03/04/2023,Local Meet,7,36,9,82.94,29.43,10,20/06/2022,Entrenador B,5 competencias,Amateur,Sobrepeso
+Nadador_amateur_136,Brazil,173.76,88.22,1,75.22,09/07/2023,Local Meet,2,40,11,73.97,29.22,9,01/11/2020,Entrenador D,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_435,China,174.52,85.09,1,78.32,27/10/2024,National Championships,3,40,8,77.34,27.94,10,15/01/2021,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_599,Russia,173.32,78.15,1,77.61,28/11/2022,State Meet,1,37,12,76.73,26.02,6,25/05/2019,Entrenador B,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_539,Russia,168.54,92.18,1,77.88,06/10/2023,State Meet,7,38,13,76.14,32.45,9,01/11/2020,Entrenador B,20 competencias,Amateur,Obesidad
+Nadador_amateur_267,Russia,179.25,69.65,1,81.32,28/07/2023,State Meet,2,37,16,80.09,21.68,10,10/02/2023,Entrenador A,15 competencias,Amateur,Normal
+Nadador_amateur_552,Australia,177.73,89.1,1,73.12,06/11/2023,National Championships,5,38,22,72.82,28.21,9,10/02/2023,Entrenador A,10 competencias,Amateur,Sobrepeso
+Nadador_amateur_762,China,178.67,77.54,1,78.83,20/08/2024,Regional Meet,2,36,19,78.68,24.29,7,25/05/2019,Entrenador C,20 competencias,Amateur,Normal
+Nadador_amateur_930,Russia,171.88,90.88,1,71.62,08/02/2023,State Meet,8,40,12,69.74,30.76,7,20/06/2022,Entrenador B,15 competencias,Amateur,Obesidad
+Nadador_amateur_479,Australia,178.79,70.56,1,71.13,02/03/2023,Regional Meet,10,40,10,70.75,22.07,6,01/11/2020,Entrenador C,25 competencias,Amateur,Normal
+Nadador_amateur_589,Australia,174.45,70.93,1,73.42,04/11/2024,Local Meet,5,37,4,71.78,23.31,10,20/06/2022,Entrenador A,25 competencias,Amateur,Normal
+Nadador_amateur_121,Russia,170.39,95.31,1,75.45,20/12/2022,Local Meet,4,39,8,73.5,32.83,10,01/11/2020,Entrenador D,20 competencias,Amateur,Obesidad
+Nadador_amateur_204,Japan,177.89,63.99,1,81.96,20/10/2024,National Championships,1,36,4,80.17,20.22,6,10/02/2023,Entrenador B,15 competencias,Amateur,Normal
+Nadador_amateur_39,China,170.25,69.88,1,70.46,21/03/2024,Local Meet,8,38,13,69.62,24.11,5,15/01/2021,Entrenador D,20 competencias,Amateur,Normal
+Nadador_amateur_74,USA,170.56,67.95,1,70.08,24/05/2024,Regional Meet,3,37,11,70.03,23.36,7,25/05/2019,Entrenador D,15 competencias,Amateur,Normal
+Nadador_amateur_448,USA,176.65,99.82,1,73.34,23/08/2024,National Championships,7,36,21,72.86,31.99,10,01/11/2020,Entrenador D,15 competencias,Amateur,Obesidad
+Nadador_amateur_929,Australia,177.24,90.93,1,75.94,17/10/2023,Local Meet,10,38,16,74.99,28.95,7,10/02/2023,Entrenador D,15 competencias,Amateur,Sobrepeso
+Nadador_amateur_147,Russia,170.79,84.49,1,77.26,25/09/2024,National Championships,4,40,8,76.25,28.97,6,10/02/2023,Entrenador D,20 competencias,Amateur,Sobrepeso
+Nadador_amateur_19,Russia,171.75,91.5,1,79.4,07/12/2022,Local Meet,4,38,2,78.88,31.02,5,Sin lesiones,Entrenador B,15 competencias,Amateur,Obesidad
+Nadador_amateur_433,Australia,172.27,64.58,1,81.28,14/12/2022,State Meet,3,38,17,80.86,21.76,7,Sin lesiones,Entrenador A,20 competencias,Amateur,Normal
+Nadador_amateur_516,USA,175.16,99.12,1,78.83,03/08/2024,National Championships,1,36,16,78.48,32.31,5,Sin lesiones,Entrenador B,10 competencias,Amateur,Obesidad
+Nadador_amateur_17,Japan,176.87,97.55,1,71.93,19/05/2024,State Meet,3,36,7,70.72,31.18,5,Sin lesiones,Entrenador C,20 competencias,Amateur,Obesidad
+Nadador_amateur_775,Japan,175.41,86.2,1,77.19,03/02/2024,Local Meet,3,37,16,76.5,28.02,9,20/06/2022,Entrenador D,25 competencias,Amateur,Sobrepeso
+Nadador_amateur_791,Russia,176.18,95.44,1,80.74,29/06/2023,National Championships,9,40,24,80.07,30.75,6,Sin lesiones,Entrenador D,5 competencias,Amateur,Obesidad

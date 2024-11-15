@@ -4,8 +4,8 @@ Created on Wed Sep 25 16:33:41 2024
 
 @author: 20151
 
-Arcivo que ejecuta un análisis exploratorio de los datos
-de la base de datos de Mongo DB
+Archivo que ejecuta un análisis exploratorio de los datos
+de la base de datos de MongoDB.
 """
 
 import pandas as pd
@@ -20,5 +20,5 @@ data = pd.DataFrame(list(collection.find()))
 
 # Análisis exploratorio
 print(data.describe())
-data.hist(bins=50, figsize=(20,15))
+data.hist(bins=50, figsize=(20, 15))
 plt.show()
