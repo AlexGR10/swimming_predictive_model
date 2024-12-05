@@ -6,10 +6,8 @@ response = requests.post(
     json={
         "user": "alexg10",
         "updates": {
-            "pruebas": {
-                "date": "16/12/2024",
-                "time": "2'15''"
-            }
+            "competition_time_s": 69,
+            "best_time_s" : 69
         }
     }
 )

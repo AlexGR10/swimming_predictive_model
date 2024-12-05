@@ -1,0 +1,34 @@
+Height (cm)
+Weight (kg)
+Gender
+Competition Time (s)
+Current Age
+Competition Years
+Best Time (s)
+IMC
+Training Hours/Week
+Country_Brazil
+Country_China
+Country_France
+Country_Hungary
+Country_Japan
+Country_Russia
+Country_Singapore
+Country_South Africa
+Country_Sweden
+Country_USA
+Competition_Local Meet
+Competition_National Championships
+Competition_Olympic Games
+Competition_Pan Pacific Championships
+Competition_Regional Meet
+Competition_State Meet
+Competition_Swim USA
+Competition_World Championships
+Entrenador_Entrenador B
+Entrenador_Entrenador C
+Entrenador_Entrenador D
+Historial de competencias_15 competencias
+Historial de competencias_20 competencias
+Historial de competencias_25 competencias
+Historial de competencias_5 competencias
